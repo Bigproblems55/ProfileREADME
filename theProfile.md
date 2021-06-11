@@ -7,6 +7,6 @@
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=gotham"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham"></a>
+  <a align="left" href="https://github.com/extrude575757/react-shopping-cart" title="React Shopping Cart"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=extrude575757&repo=react-shopping-cart&theme=gotham"></a><a align="right" href="https://github.com/extrude575757/react-shopping-cart" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=extrude575757&repo=react-shopping-cart&theme=gotham"></a>
 </p>
 <br><br>
