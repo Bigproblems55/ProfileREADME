@@ -1,3 +1,18 @@
+
+
+
+
+
+### 📫 Get In Touch
+[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/quan-le-5932b8160/)
+<a href="mailto:nicholas.a.lacapria@gmail.com"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
+&nbsp; &nbsp;
+<a href="mailto:nicholas.a.lacapria@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+&nbsp; &nbsp;
+
+
+
+
 <img align="center" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" alt="devSouvik's Github Stats">
 
 
