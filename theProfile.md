@@ -1,6 +1,6 @@
-<p width="100%" height="200px" bgcolor="blue">
+<p width="100%" height="200px" color="blue">
 
-<h1  align="center">Nicholas Anthony Lacapria </h1> 
+<h1 color="red"  align="center">Nicholas Anthony Lacapria </h1> 
 </p>
 
 
