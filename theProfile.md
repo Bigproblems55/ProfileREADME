@@ -1,3 +1,7 @@
+<img align="center" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" alt="devSouvik's Github Stats">
+
+
+
 <hr>
 
 <a href="https://github.com/extrude575757/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=extrude575757&show_icons=true&theme=gotham"></a>
@@ -45,3 +49,14 @@
   <a align="right" href="https://github.com/extrude575757/node-api4-project" title="Node Api4 Project"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=extrude575757&repo=node-api4-project&theme=gotham"></a>
 </p>
 <br><br>
+
+
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/extrude575757/React-Testing-Contact-Form" title="React Testing Contact Form"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=extrude575757&repo=React-Testing-Contact-Form&theme=gotham"></a>
+  
+  
+  <a align="right" href="https://github.com/extrude575757/React-Testing-TV-Show" title="React Testing TV Show"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=extrude575757&repo=React-Testing-TV-Show&theme=gotham"></a>
+</p>
+<br><br>
+
+
