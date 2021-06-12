@@ -70,7 +70,7 @@
 </details>
 <br>
 <details>
-           <summary><b><a href="https://distracted-joliot-156406.netlify.app/">Pentireach App </a> <a href="https://loving-einstein-b5195c.netlify.app/"> Pentireach Marketing Page</a></b> </summary>
+           <summary><b><a href="https://distracted-joliot-156406.netlify.app/">Pentireach App </a> or <a href="https://loving-einstein-b5195c.netlify.app/"> Pentireach Marketing Page</a></b> </summary>
            <p>
 
 - [x] The pentereach app is designed to allow a user to place articles within containers for research. This project was made from scratch right after learning Javascript, which was the 2nd section before learning React as a front-end design library. The main goal of the project was to demonstrate responsiveness, styling with flex, and a few functionality features with Javascript.  
