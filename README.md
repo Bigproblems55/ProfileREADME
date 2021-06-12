@@ -3,7 +3,7 @@
 <h1 color="red"  align="center">Nicholas Anthony Lacapria </h1> 
 </p>
 
-
+<p>More Coming soon!</p>
 
 ### 📫 Get In Touch
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/web-dev-nicholas-lacapria//)<a href="mailto:nicholas.a.lacapria@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
