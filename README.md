@@ -142,7 +142,7 @@
 
 <img width="30%" align="left" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" alt="Nick's Stats">
 
-<img width="40%" align="right" src="https://media-exp3.licdn.com/dms/image/C4E03AQGTRL4HJymMyw/profile-displayphoto-shrink_800_800/0/1604877925830?e=1628726400&v=beta&t=5oWPitlfGiGR3O7fhfsUieJ_ftapru5tIZCNBq35vOg" alt="Nicholas Anthony Lacapria">
+<img width="40%" align="right" src="https://media-exp3.licdn.com/dms/image/C4E03AQHQQq7QU5capw/profile-displayphoto-shrink_200_200/0/1623495153672?e=1628726400&v=beta&t=a_ZZxMAA0Uk_rfy1EJs9mHzAEMr26KNhhffFyUKj_as" alt="Nicholas Anthony Lacapria">
 
 <p align="center">
 <a align="center" href="https://github.com/extrude575757/github-readme-stats" title="Go to Source"><img width="50%" height="100%" src="https://github-readme-stats.vercel.app/api?username=extrude575757&show_icons=true&theme=gotham"></a>
