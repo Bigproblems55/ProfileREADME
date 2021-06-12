@@ -7,9 +7,15 @@
 
 
 <p><b><i>HTML,PHP & JSX:</i></b> 
+ 
+   In PHP I used Twig templates to style drupal 8 elements within a web page.
 * HTML5 element experience with JSX, Twig, and PHP syntax. 
   * In PHP I used Twig templates to style drupal 8 elements within a web page.
 
+  * HTML5 element experience with JSX, Twig, and PHP syntax: 
+* Item 2
+  * Item 2a
+  * Item 2b
 </p>
 <hr>
 <h4>Organization I'm Currently At:</h4>
