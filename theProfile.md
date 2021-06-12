@@ -1,24 +1,23 @@
 <p width="60%" height="100%" bgcolor="blue">
-<h1 style={color:"red"}  align="center">Nicholas Anthony Lacapria </h1> 
+<h1 style={font-color:"red"}  align="center">Nicholas Anthony Lacapria </h1> 
 <h3>Mern Stack Web Developer for Hire!</h3>
 </p>
 
 <p>More Coming soon!</p>
-<hr><br>
-<h2>Organization I'm Currently At:</h2>
+<hr>
+<h4>Organization I'm Currently At:</h4>
 <br>
-- [Lambda-School-Labs](https://github.com/Lambda-School-Labs)[:drum:]
+- [**Lambda-School-Labs**](https://github.com/Lambda-School-Labs)[:drum:]
 <br>
-<h4>Past organizations i've been at:</h4>
+<h5>Past organizations i've been at:</h5>
 <br>
-- [Pintereach1](https://github.com/Pintereach1)[:cyclone:]
+- [**Pintereach1**](https://github.com/Pintereach1)[:cyclone:]
 <br>
-- [PTBW-Water-My-Plants](https://github.com/PTBW-Water-My-Plants)[:evergreen_tree:]
+- [**PTBW-Water-My-Plants**](https://github.com/PTBW-Water-My-Plants)[:evergreen_tree:]
 <br>
-- [Build-Week-secretfamilyrecipes-2020](https://github.com/Build-Week-secretfamilyrecipes-2020)[:avocado:]
+- [**Build-Week-secretfamilyrecipes-2020**](https://github.com/Build-Week-secretfamilyrecipes-2020)[:avocado:]
 <br>
-- [Build-week-secret-family-recipes-9](https://github.com/Build-week-secret-family-recipes-9)[:plate_with_cutlery:]
-<br>
+- [**Build-week-secret-family-recipes-9**](https://github.com/Build-week-secret-family-recipes-9)[:plate_with_cutlery:]
 <hr>
 <br>
 
