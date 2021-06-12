@@ -65,18 +65,18 @@ I have used HTML5 and CSS3 markup with Javascript, PHP, and Jquery. Through JSX 
 <img align="center" src="https://images.credly.com/size/340x340/images/bd26a157-c655-4383-9707-a1bd6576f153/lambda-badge-full-stack-web.png" alt="lambda webdev" > 
 
 
-<img align="left" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" alt="Nick's Stats">
+<img max-width="30%" align="left" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" alt="Nick's Stats">
 
-<img align="right" src="https://media-exp3.licdn.com/dms/image/C4E03AQGTRL4HJymMyw/profile-displayphoto-shrink_800_800/0/1604877925830?e=1628726400&v=beta&t=5oWPitlfGiGR3O7fhfsUieJ_ftapru5tIZCNBq35vOg" alt="Nicholas Anthony Lacapria">
+<img max-width="30%" align="right" src="https://media-exp3.licdn.com/dms/image/C4E03AQGTRL4HJymMyw/profile-displayphoto-shrink_800_800/0/1604877925830?e=1628726400&v=beta&t=5oWPitlfGiGR3O7fhfsUieJ_ftapru5tIZCNBq35vOg" alt="Nicholas Anthony Lacapria">
 
 
 
 <hr>
 
-<a align="left" href="https://github.com/extrude575757/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=extrude575757&show_icons=true&theme=gotham"></a>
-<p width="100%" align="right">
+<a align="left" href="https://github.com/extrude575757/github-readme-stats" title="Go to Source"><img max-width="30%" height="100%" src="https://github-readme-stats.vercel.app/api?username=extrude575757&show_icons=true&theme=gotham"></a>
+<p max-width="30%" align="right">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=extrude575757&langs_count=8&layout=compact)](https://github.com/extrude575757/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=extrude575757&langs_count=8&layout=demo)](https://github.com/extrude575757/github-readme-stats)
 
 </p>
 <hr>
