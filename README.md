@@ -16,7 +16,6 @@
 * <i>Used HTML5 and CSS3 markup with Javascript, PHP, and Jquery.</i>  
 * <i>Used JSX and ES6 syntax with React, Nodejs, and Javascript. </i>  
 
-* 
    
 * HTML5 experience with Drupal8, Twig, and PHP: 
   * In PHP I used Twig templates to style drupal 8 elements within a web page.
@@ -30,8 +29,9 @@
 
 <p align="left"><b>CSS3,LESS & SASS:</b> 
 <br>
+
 * <i>Used CSS, Less, SASS, & 3d animation libaries</i>  
-  <br> 
+
 * CSS3 styling:
   * Used flex & flex-inline display as an auto responsive cross-compatable layout design.
   * Used block and inline display to position elements based on their absolute or float value. 
