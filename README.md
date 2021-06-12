@@ -9,13 +9,9 @@
 
 
 <h6>HTML, Javascript, PHP & JSX:</h6>  <details>
-           <summary>HTML, Javascript, PHP & JSX:</summary>
+           <summary><b>Used HTML5 and CSS3 markup with Javascript, PHP, and Jquery.</b></summary>
            <p>
-           
-* <b>Used HTML5 and CSS3 markup with Javascript, PHP, and Jquery.</b>  
-  * <b>Used JSX and ES6 syntax with React, Nodejs, and Javascript. </b>  
 
-   
 * HTML5 experience with Drupal8, Twig, and PHP: 
   * Used Twig templates to style drupal 8 elements within a PHP syntax web page.
   * I took full advantage of Drupal8's content management system, cron-jobs, and modules. 
