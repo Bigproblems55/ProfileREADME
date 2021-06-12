@@ -7,17 +7,17 @@
 <hr>
 <h4>Organization I'm Currently At:</h4>
 <br>
-- **Lambda-School-Labs**(https://github.com/Lambda-School-Labs)[:drum:]
+- <b>Lambda-School-Labs</b>(https://github.com/Lambda-School-Labs)[:drum:]
 <br>
 <h5>Past organizations i've been at:</h5>
+
+- <b>Pintereach1</b>(https://github.com/Pintereach1):cyclone:
 <br>
-- [__Pintereach1__](https://github.com/Pintereach1)[:cyclone:]
+- <b>PTBW-Water-My-Plants</b>(https://github.com/PTBW-Water-My-Plants):evergreen_tree:
 <br>
-- <b>PTBW-Water-My-Plants</b>(https://github.com/PTBW-Water-My-Plants)[:evergreen_tree:]
+- <b>Build-Week-secretfamilyrecipes-2020</b>(https://github.com/Build-Week-secretfamilyrecipes-2020):avocado:
 <br>
-- [<b>Build-Week-secretfamilyrecipes-2020</b>](https://github.com/Build-Week-secretfamilyrecipes-2020)[:avocado:]
-<br>
-- <b>Build-week-secret-family-recipes-9</b>(https://github.com/Build-week-secret-family-recipes-9)[:plate_with_cutlery:]
+- <b>Build-week-secret-family-recipes-9</b>(https://github.com/Build-week-secret-family-recipes-9):plate_with_cutlery:
 <hr>
 <br>
 
