@@ -10,6 +10,7 @@
 &nbsp; &nbsp;
 
 <hr>
+<br><br>
 <img align="center" src="https://images.credly.com/size/340x340/images/bd26a157-c655-4383-9707-a1bd6576f153/lambda-badge-full-stack-web.png" alt="lambda webdev" > 
 
 
