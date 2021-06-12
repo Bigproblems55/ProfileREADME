@@ -6,9 +6,10 @@
 <h1 align="center" >Nicholas Anthony Lacapria </h1> 
 <h3>Mern Stack Web Developer for Hire!</h3>
 </p>
+<p align="left">
 
-
-<h6>HTML, Javascript, PHP & JSX:</h6>  <details>
+<h6>HTML, Javascript, PHP & JSX:</h6>  
+<details>
            <summary><b>Used HTML5 and CSS3 markup with Javascript, PHP, and Jquery.</b></summary>
            <p>
 
@@ -23,7 +24,7 @@
            <summary><b>Used JSX and ES6 syntax with React, Nodejs, and Javascript.</b>  </summary>
            <p>
 
- * Experience with JSX syntax to render Components to React Dom:
+* Experience with JSX syntax to render Components to React Dom:
   * Took advantage of component lifecyles to make conditional JSX renders.
   * Used Industry Standard common component refactoring so the componet could be used within any file of the project.
 
@@ -37,11 +38,10 @@
 
    
 
-
-<p align="left">
 <h6>CSS3,LESS & SASS:</h6> 
-
-* <b>Used CSS, Less, SASS, & 3d animation libaries</b>  
+<details>
+           <summary><b>Used CSS, Less, SASS, & 3d animation libaries</b> </summary>
+           <p>
 
 * CSS3 styling:
   * Used flex & flex-inline display as an auto responsive cross-compatable layout design.
@@ -51,7 +51,12 @@
 * CSS styling with Less:
   * Used less-watch-compiler to watch a less index file for changes so it would initiate into a transpiled file of CSS syntax within the CSS styling folder.
   * Used Less syntax indention to weight classes, ID's, and tags together for responsive Desktop First layout design. 
-  * Took advantage of mixins so variable values could be a parameter of class or id styles. 
+  * Took advantage of mixins so variable values could be a parameter of class or id styles.  
+           </p>
+         </details>
+
+
+
 </p>
 <hr>
 <br>
