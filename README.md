@@ -1,32 +1,45 @@
-<p width="100%" height="100%" bgcolor="blue">
-<h1 color="red"  align="center">Nicholas Anthony Lacapria </h1> 
-<h3>Mern Stack Developer for Hire!</h3>
+<p width="10%" height="100%" bgcolor="blue">
+<h1 style={font-color:"red"}  align="center">Nicholas Anthony Lacapria </h1> 
+<h3>Mern Stack Web Developer for Hire!</h3>
 </p>
 
-<p>More Coming soon!</p>
-<p>
-:evergreen_tree:
-[]:evergreen_tree:]
-[:evergreen_tree:]
+
+
+
+<p><b><i>HTML,PHP & JSX:</i></b> 
+I have used HTML5 and CSS3 markup with Javascript, PHP, and Jquery. Through JSX and ES6 syntax I have used React, Nodejs, and Javascript.   
+
+
+ 
+   
+* HTML5 experience with Drupal8, Twig, and PHP: 
+  * In PHP I used Twig templates to style drupal 8 elements within a web page.
+  * I took full advantage of Drupal8's content management system, cron-jobs, and modules. 
+
+
 </p>
-#### Current working organization:
+<hr>
+<h4>Organization I'm Currently At:</h4>
+<br>
+- <b>Lambda-School-Labs</b>(https://github.com/Lambda-School-Labs) :drum:
+<br>
+<h5>Past organizations i've been at:</h5>
 
-- [Lambda-School-Labs](https://github.com/Lambda-School-Labs)
-:evergreen_tree:
-[]:evergreen_tree:]
-[:evergreen_tree:]
-#### Past Organizations:
-- [Pintereach1](https://github.com/Pintereach1)
-- [PTBW-Water-My-Plants](https://github.com/PTBW-Water-My-Plants)
-- [Build-Week-secretfamilyrecipes-2020](https://github.com/Build-Week-secretfamilyrecipes-2020)
-- [Build-week-secret-family-recipes-9](https://github.com/Build-week-secret-family-recipes-9)
-
-
+- <b>Pintereach1</b>(https://github.com/Pintereach1) :cyclone:
+<br>
+- <b>PTBW-Water-My-Plants</b>(https://github.com/PTBW-Water-My-Plants) :evergreen_tree:
+<br>
+- <b>Build-Week-secretfamilyrecipes-2020</b>(https://github.com/Build-Week-secretfamilyrecipes-2020) :avocado:
+<br>
+- <b>Build-week-secret-family-recipes-9</b>(https://github.com/Build-week-secret-family-recipes-9) :plate_with_cutlery:
+<hr>
+<br>
 
 ### Tools & Languages I work with!
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a src="https://postgresql.com/"><img src="https://img.icons8.com/color/50/000000/postgreesql.png"/></a>
 <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
 <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
 <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
@@ -34,8 +47,15 @@
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+<h6>Skills</h6>
 
-
+* <b>Successful with:</b>
+  * UML flow-chart creation and WYSIWYG editors.
+  * Popular UX/UI Designing, Accessability, & Cross Compatability.
+  * Testing, Loging, Commenting, & Stack Debugging.
+  * Front/Back-end coding, SASS/LESS/CSS styling, along with 3D Libaries.
+  * Git, gist, & mercurial reversioning.
+  * Gimp, Inkscape, Blender, & photo-shop imaging, texturing and design pattern principles.
 ### 📫 Get In Touch
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/web-dev-nicholas-lacapria//)<a href="mailto:nicholas.a.lacapria@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
@@ -52,9 +72,12 @@
 
 
 <hr>
+<p width="100%" align="left">
+<a align="left" href="https://github.com/extrude575757/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=extrude575757&show_icons=true&theme=gotham"></a>
 
-<a href="https://github.com/extrude575757/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=extrude575757&show_icons=true&theme=gotham"></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=extrude575757&langs_count=8)](https://github.com/extrude575757/github-readme-stats)
 
+</p>
 <hr>
 
 <h2 align="center">Repositories</h2>
