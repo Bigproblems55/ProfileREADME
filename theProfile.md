@@ -1,25 +1,20 @@
-<p width="100%" height="100%" bgcolor="blue">
-<h1 color="red"  align="center">Nicholas Anthony Lacapria </h1> 
-<h3>Mern Stack Developer for Hire!</h3>
+<p width="60%" height="100%" bgcolor="blue">
+<h1 style={color:"red"}  align="center">Nicholas Anthony Lacapria </h1> 
+<h3>Mern Stack Web Developer for Hire!</h3>
 </p>
 
 <p>More Coming soon!</p>
-<p>
-:evergreen_tree:
-[]:evergreen_tree:]
-[:evergreen_tree:]
-</p>
-#### Current working organization:
 
-- [Lambda-School-Labs](https://github.com/Lambda-School-Labs)
-:evergreen_tree:
-[]:evergreen_tree:]
-[:evergreen_tree:]
-#### Past Organizations:
-- [Pintereach1](https://github.com/Pintereach1)
-- [PTBW-Water-My-Plants](https://github.com/PTBW-Water-My-Plants)
-- [Build-Week-secretfamilyrecipes-2020](https://github.com/Build-Week-secretfamilyrecipes-2020)
-- [Build-week-secret-family-recipes-9](https://github.com/Build-week-secret-family-recipes-9)
+<h2>Organization I'm Currently At:</h2>
+<hr><br>
+- [Lambda-School-Labs](https://github.com/Lambda-School-Labs)[:drum:]
+
+<br>
+<h4>Past organizations i've been at:</h4>
+- [Pintereach1](https://github.com/Pintereach1)[:cyclone:]
+- [PTBW-Water-My-Plants](https://github.com/PTBW-Water-My-Plants)[:evergreen_tree:]
+- [Build-Week-secretfamilyrecipes-2020](https://github.com/Build-Week-secretfamilyrecipes-2020)[:avocado:]
+- [Build-week-secret-family-recipes-9](https://github.com/Build-week-secret-family-recipes-9)[:plate_with_cutlery:]
 
 
 
