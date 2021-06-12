@@ -1,39 +1,114 @@
-<p width="10%" height="100%" bgcolor="blue">
-<h1 style={font-color:"red"}  align="center">Nicholas Anthony Lacapria </h1> 
+
+<p align="left">
+<img  align="left"  src="https://visitor-badge.laobi.icu/badge?page_id=extrude575757" id="counter">
+</p>
+<p  align="center"  >
+<h1 align="center" >Nicholas Anthony Lacapria </h1> 
 <h3>Mern Stack Web Developer for Hire!</h3>
 </p>
+<p width="30%" align="right">
 
-
-
-
-<p><b><i>HTML,PHP & JSX:</i></b> 
-I have used HTML5 and CSS3 markup with Javascript, PHP, and Jquery. Through JSX and ES6 syntax I have used React, Nodejs, and Javascript.   
-
-
- 
-   
-* HTML5 experience with Drupal8, Twig, and PHP: 
-  * In PHP I used Twig templates to style drupal 8 elements within a web page.
-  * I took full advantage of Drupal8's content management system, cron-jobs, and modules. 
-
+<img width="20%" align="right" src="https://images.credly.com/size/240x240/images/bd26a157-c655-4383-9707-a1bd6576f153/lambda-badge-full-stack-web.png" alt="lambda webdev" /> 
 
 </p>
+<p align="left">
+
+<h6>HTML, Javascript, PHP & JSX:</h6>  
+<details>
+           <summary><b>Used HTML5 and CSS3 markup with Javascript, PHP, and Jquery.</b></summary>
+           <p>
+
+* HTML5 experience with Drupal8, Twig, and PHP: 
+  * Used Twig templates to style drupal 8 elements within a PHP syntax web page.
+  * I took full advantage of Drupal8's content management system, cron-jobs, and modules. 
+           </p>
+         </details>
+
+
+<details>
+           <summary><b>Used JSX and ES6 syntax with React, Nodejs, and Javascript.</b>  </summary>
+           <p>
+
+* Experience with JSX syntax to render Components to React Dom:
+  * Took advantage of component lifecyles to make conditional JSX renders.
+  * Used Industry Standard common component refactoring so the componet could be used within any file of the project.
+
+* Experience with Javascript DOM objects:
+  * Used Chrome tools to read and manipulate DOM objects.
+  * Took advantage of Javascript events and used proper event propagation and bubbling for a functional user experience. 
+           </p>
+         </details>
+
+
+<h6>CSS3,LESS & SASS:</h6> 
+<details>
+           <summary><b>Used CSS, Less, SASS, & 3d animation libaries</b> </summary>
+           <p>
+
+* CSS3 styling:
+  * Used flex & flex-inline display as an auto responsive cross-compatable layout design.
+  * Used block and inline display to position elements based on their absolute or float value. 
+  * Normalized CSS with the Myers Reset & 62.5% html font size.
+  * Used at media signs to controle the element repsoniveness depending on screen size for cross-compatiblity. 
+* CSS styling with Less:
+  * Used less-watch-compiler to watch a less index file for changes so it would initiate into a transpiled file of CSS syntax within the CSS styling folder.
+  * Used Less syntax indention to weight classes, ID's, and tags together for responsive Desktop First layout design. 
+  * Took advantage of mixins so variable values could be a parameter of class or id styles.  
+           </p>
+         </details>
+
+</p>
+
+
+<h6>Projects:</h6> 
+<details>
+           <summary><b><a href="https://pedantic-lichterman-c811ec.netlify.app">Water my Plants</a></b> </summary>
+           <p>
+
+- [x] This project was done after learning the first Section of react before I learned what backend code looked like. It was a login form and used an automatic form validation library with javascript to test the user’s input. It has a nice earthly background and is the start to a great login/registration page.  
+           </p>
+</details>
+<br>
+<details>
+           <summary><b><a href="https://distracted-joliot-156406.netlify.app/">Pentireach App </a> or <a href="https://loving-einstein-b5195c.netlify.app/"> Pentireach Marketing Page</a></b> </summary>
+           <p>
+
+- [x] The pentereach app is designed to allow a user to place articles within containers for research. This project was made from scratch right after learning Javascript, which was the 2nd section before learning React as a front-end design library. The main goal of the project was to demonstrate responsiveness, styling with flex, and a few functionality features with Javascript.  
+           </p>
+</details>
+<br>
+<details>
+           <summary><b><a href="https://cranky-morse-e5b98a.netlify.app/">Portfolio Page </a></b> </summary>
+           <p>
+
+- [x] The main portfolio page where I will be showcasing all projects. Right now only the ones I began with before React’s front-end design section are included. There are more to come as I start to deploy them from github, they will all be added here.
+           </p>
+</details>
+<br>
+<details>
+           <summary><b><a href="https://focused-hugle-a34bbe.netlify.app">Yosemite Parks Page</a></b> </summary>
+           <p>
+           
+- [x] This was at the end of the first section where we learned what CSS is and how to make elements responsive with flex display settings. After passing this section and getting comfortable with positioning elements I made a roulette table as a personal project to gain a better understanding through this newly emerged skill.
+           </p>
+</details>
+
+
 <hr>
 <h4>Organization I'm Currently At:</h4>
-<br>
+
 - <b>Lambda-School-Labs</b>(https://github.com/Lambda-School-Labs) :drum:
-<br>
+
 <h5>Past organizations i've been at:</h5>
 
 - <b>Pintereach1</b>(https://github.com/Pintereach1) :cyclone:
-<br>
+
 - <b>PTBW-Water-My-Plants</b>(https://github.com/PTBW-Water-My-Plants) :evergreen_tree:
-<br>
+
 - <b>Build-Week-secretfamilyrecipes-2020</b>(https://github.com/Build-Week-secretfamilyrecipes-2020) :avocado:
-<br>
+
 - <b>Build-week-secret-family-recipes-9</b>(https://github.com/Build-week-secret-family-recipes-9) :plate_with_cutlery:
 <hr>
-<br>
 
 ### Tools & Languages I work with!
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
@@ -61,29 +136,31 @@ I have used HTML5 and CSS3 markup with Javascript, PHP, and Jquery. Through JSX 
 &nbsp; &nbsp;
 
 <hr>
-<br><br>
-<img align="center" src="https://images.credly.com/size/340x340/images/bd26a157-c655-4383-9707-a1bd6576f153/lambda-badge-full-stack-web.png" alt="lambda webdev" > 
 
 
-<img align="left" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" alt="Nick's Stats">
+<br>
 
-<img align="right" src="https://media-exp3.licdn.com/dms/image/C4E03AQGTRL4HJymMyw/profile-displayphoto-shrink_800_800/0/1604877925830?e=1628726400&v=beta&t=5oWPitlfGiGR3O7fhfsUieJ_ftapru5tIZCNBq35vOg" alt="Nicholas Anthony Lacapria">
+<img width="30%" align="left" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" alt="Nick's Stats">
 
+<img width="40%" align="right" src="https://media-exp3.licdn.com/dms/image/C4E03AQGTRL4HJymMyw/profile-displayphoto-shrink_800_800/0/1604877925830?e=1628726400&v=beta&t=5oWPitlfGiGR3O7fhfsUieJ_ftapru5tIZCNBq35vOg" alt="Nicholas Anthony Lacapria">
 
+<p align="center">
+<a align="center" href="https://github.com/extrude575757/github-readme-stats" title="Go to Source"><img width="50%" height="100%" src="https://github-readme-stats.vercel.app/api?username=extrude575757&show_icons=true&theme=gotham"></a>
 
-<hr>
-<p width="100%" align="left">
-<a align="left" href="https://github.com/extrude575757/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=extrude575757&show_icons=true&theme=gotham"></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=extrude575757&langs_count=8&layout=compact)](https://github.com/extrude575757/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=extrude575757&langs_count=8)](https://github.com/extrude575757/github-readme-stats)
 
 </p>
+
+
 <hr>
 
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/extrude575757/react-shopping-cart" title="React Shopping Cart"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=extrude575757&repo=react-shopping-cart&theme=gotham"></a><a align="right" href="https://github.com/extrude575757/github-usercard" title="Github Api Card"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=extrude575757&repo=github-usercard&theme=gotham"></a>
+  <a align="left" href="https://github.com/extrude575757/react-shopping-cart" title="React Shopping Cart"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=extrude575757&repo=react-shopping-cart&theme=gotham"></a>
+  
+  <a align="right" href="https://github.com/extrude575757/github-usercard" title="Github Api Card"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=extrude575757&repo=github-usercard&theme=gotham"></a>
 </p>
 <br><br>
 
@@ -129,6 +206,13 @@ I have used HTML5 and CSS3 markup with Javascript, PHP, and Jquery. Through JSX 
   
   <a align="right" href="https://github.com/extrude575757/React-Testing-TV-Show" title="React Testing TV Show"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=extrude575757&repo=React-Testing-TV-Show&theme=gotham"></a>
 </p>
-<br><br>
 
 
+
+
+
+<p align="center">
+<br>
+<br>
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=extrude575757.ProfileREADME" id="counter">
+</p>
