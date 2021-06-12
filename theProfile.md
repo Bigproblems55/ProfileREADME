@@ -3,13 +3,15 @@
 <h1 color="red"  align="center">Nicholas Anthony Lacapria </h1> 
 </p>
 
-
+<p>More Coming soon!</p>
 
 ### 📫 Get In Touch
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/web-dev-nicholas-lacapria//)<a href="mailto:nicholas.a.lacapria@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
 
-
+<hr>
+<br><br>
+<img align="center" src="https://images.credly.com/size/340x340/images/bd26a157-c655-4383-9707-a1bd6576f153/lambda-badge-full-stack-web.png" alt="lambda webdev" > 
 
 
 <img align="left" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" alt="Nick's Stats">
