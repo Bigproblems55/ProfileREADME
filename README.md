@@ -55,28 +55,23 @@
            </p>
          </details>
 
-
-
 </p>
+
 <hr>
-<br>
 <h4>Organization I'm Currently At:</h4>
 
 - <b>Lambda-School-Labs</b>(https://github.com/Lambda-School-Labs) :drum:
-<br>
+
 <h5>Past organizations i've been at:</h5>
 
 - <b>Pintereach1</b>(https://github.com/Pintereach1) :cyclone:
 
 - <b>PTBW-Water-My-Plants</b>(https://github.com/PTBW-Water-My-Plants) :evergreen_tree:
-<br>
 
 - <b>Build-Week-secretfamilyrecipes-2020</b>(https://github.com/Build-Week-secretfamilyrecipes-2020) :avocado:
-<br>
 
 - <b>Build-week-secret-family-recipes-9</b>(https://github.com/Build-week-secret-family-recipes-9) :plate_with_cutlery:
 <hr>
-<br>
 
 ### Tools & Languages I work with!
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
@@ -110,13 +105,14 @@
 
 <img width="40%" align="right" src="https://media-exp3.licdn.com/dms/image/C4E03AQGTRL4HJymMyw/profile-displayphoto-shrink_800_800/0/1604877925830?e=1628726400&v=beta&t=5oWPitlfGiGR3O7fhfsUieJ_ftapru5tIZCNBq35vOg" alt="Nicholas Anthony Lacapria">
 
-<hr>
-
+<p align="left">
 <a align="left" href="https://github.com/extrude575757/github-readme-stats" title="Go to Source"><img width="50%" height="100%" src="https://github-readme-stats.vercel.app/api?username=extrude575757&show_icons=true&theme=gotham"></a>
 
-<p width="40%" align="right">
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=extrude575757&langs_count=8&layout=compact)](https://github.com/extrude575757/github-readme-stats)
+
+
+</p>
+<p width="30%" align="right">
 
 <img width="20%" align="right" src="https://images.credly.com/size/240x240/images/bd26a157-c655-4383-9707-a1bd6576f153/lambda-badge-full-stack-web.png" alt="lambda webdev" /> 
 
@@ -179,6 +175,6 @@
 
 
 
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=extrude575757.ProfileREADME" id="counter">
+<p align="left">
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=extrude575757.ProfileREADME" id="counter">
 </p>
