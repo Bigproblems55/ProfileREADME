@@ -1,36 +1,64 @@
-<p width="10%" height="100%" bgcolor="blue">
-<h1 style={font-color:"red"}  align="center">Nicholas Anthony Lacapria </h1> 
+
+<p align="left">
+<img  align="left"  src="https://visitor-badge.laobi.icu/badge?page_id=extrude575757" id="counter">
+</p>
+<p  align="center"  >
+<h1 align="center" >Nicholas Anthony Lacapria </h1> 
 <h3>Mern Stack Web Developer for Hire!</h3>
 </p>
 
 
 
+   
 
-<p><b><i>HTML,PHP & JSX:</i></b> 
-I have used HTML5 and CSS3 markup with Javascript, PHP, and Jquery. Through JSX and ES6 syntax I have used React, Nodejs, and Javascript.   
+<p align="left"><b>HTML,PHP & JSX:</b> 
 
+* <i>Used HTML5 and CSS3 markup with Javascript, PHP, and Jquery.</i>  
+* <i>Used JSX and ES6 syntax with React, Nodejs, and Javascript. </i>  
 
- 
+* 
    
 * HTML5 experience with Drupal8, Twig, and PHP: 
   * In PHP I used Twig templates to style drupal 8 elements within a web page.
   * I took full advantage of Drupal8's content management system, cron-jobs, and modules. 
 
 
+
+
+</p>
+
+
+<p align="left"><b>CSS3,LESS & SASS:</b> 
+<br>
+* <i>Used CSS, Less, SASS, & 3d animation libaries</i>  
+  <br> 
+* CSS3 styling:
+  * Used flex & flex-inline display as an auto responsive cross-compatable layout design.
+  * Used block and inline display to position elements based on their absolute or float value. 
+  * Normalized CSS with the Myers Reset & 62.5% html font size.
+  * Used at media signs to controle the element repsoniveness depending on screen size for cross-compatiblity. 
+* CSS styling with Less:
+  * Used less-watch-compiler to watch a less index file for changes so it would initiate into a transpiled file of CSS syntax within the CSS styling folder.
+  * Used Less syntax indention to weight classes, ID's, and tags together for responsive Desktop First layout design. 
+  * Took advantage of mixins so variable values could be a parameter of class or id styles. 
 </p>
 <hr>
+<br>
 <h4>Organization I'm Currently At:</h4>
 <br>
+
 - <b>Lambda-School-Labs</b>(https://github.com/Lambda-School-Labs) :drum:
 <br>
 <h5>Past organizations i've been at:</h5>
 
 - <b>Pintereach1</b>(https://github.com/Pintereach1) :cyclone:
-<br>
+
 - <b>PTBW-Water-My-Plants</b>(https://github.com/PTBW-Water-My-Plants) :evergreen_tree:
 <br>
+
 - <b>Build-Week-secretfamilyrecipes-2020</b>(https://github.com/Build-Week-secretfamilyrecipes-2020) :avocado:
 <br>
+
 - <b>Build-week-secret-family-recipes-9</b>(https://github.com/Build-week-secret-family-recipes-9) :plate_with_cutlery:
 <hr>
 <br>
@@ -132,13 +160,9 @@ I have used HTML5 and CSS3 markup with Javascript, PHP, and Jquery. Through JSX 
 </p>
 <br><br>
 
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=extrude575757" id="counter">
-</p>
 
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/ProfileREADME?page_id=extrude575757" id="counter">
-</p>
+
+
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=extrude575757.ProfileREADME" id="counter">
