@@ -59,6 +59,26 @@
 
 </p>
 
+
+<h6>Projects:</h6> 
+<details>
+           <summary><b><a href="https://pedantic-lichterman-c811ec.netlify.app">Water my Plants</a></b> </summary>
+           <p>
+           This project was done after learning the first Section of react before I learned what backend code looked like. It was a login form and used an automatic form validation library with javascript to test the user’s input. It has a nice earthly background and is the start to a great login/registration page.  
+           </p>
+         </details>
+
+
+Water my Plants— https://pedantic-lichterman-c811ec.netlify.app/  
+This project was done after learning the first Section of react before I learned what backend code looked like. It was a login form and used an automatic form validation library with javascript to test the user’s input. It has a nice earthly background and is the start to a great login/registration page.  
+Pentireach App and Marketing Page— https://distracted-joliot-156406.netlify.app/  https://loving-einstein-b5195c.netlify.app/  
+The pentereach app is designed to allow a user to place articles within containers for research. This project was made from scratch right after learning Javascript, which was the 2nd section before learning React as a front-end design library. The main goal of the project was to demonstrate responsiveness, styling with flex, and a few functionality features with Javascript. 
+Portfolio Page— https://cranky-morse-e5b98a.netlify.app/  
+The main portfolio page where I will be showcasing all projects. Right now only the ones I began with before React’s front-end design section are included. There are more to come as I start to deploy them from github, they will all be added here. 
+Yosemite Parks Page— https://focused-hugle-a34bbe.netlify.app/  
+This was at the end of the first section where we learned what CSS is and how to make elements responsive with flex display settings. After passing this section and getting comfortable with positioning elements I made a roulette table as a personal project to gain a better understanding through this newly emerged skill.
+
+
 <hr>
 <h4>Organization I'm Currently At:</h4>
 
@@ -171,8 +191,9 @@
   
   <a align="right" href="https://github.com/extrude575757/React-Testing-TV-Show" title="React Testing TV Show"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=extrude575757&repo=React-Testing-TV-Show&theme=gotham"></a>
 </p>
-<br><br>
-
+<br>
+<br>
+<hr>
 
 
 
