@@ -1,9 +1,40 @@
-<p width="100%" height="200px" color="blue">
-
+<p width="100%" height="100%" bgcolor="blue">
 <h1 color="red"  align="center">Nicholas Anthony Lacapria </h1> 
+<h3>Mern Stack Developer for Hire!</h3>
 </p>
 
 <p>More Coming soon!</p>
+<p>
+:evergreen_tree:
+[]:evergreen_tree:]
+[:evergreen_tree:]
+</p>
+#### Current working organization:
+
+- [Lambda-School-Labs](https://github.com/Lambda-School-Labs)
+:evergreen_tree:
+[]:evergreen_tree:]
+[:evergreen_tree:]
+#### Past Organizations:
+- [Pintereach1](https://github.com/Pintereach1)
+- [PTBW-Water-My-Plants](https://github.com/PTBW-Water-My-Plants)
+- [Build-Week-secretfamilyrecipes-2020](https://github.com/Build-Week-secretfamilyrecipes-2020)
+- [Build-week-secret-family-recipes-9](https://github.com/Build-week-secret-family-recipes-9)
+
+
+
+### Tools & Languages I work with!
+<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+<a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
+<a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
+<a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+<a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
+<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+
 
 ### 📫 Get In Touch
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/web-dev-nicholas-lacapria//)<a href="mailto:nicholas.a.lacapria@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
