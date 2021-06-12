@@ -15,38 +15,27 @@
 * HTML5 experience with Drupal8, Twig, and PHP: 
   * Used Twig templates to style drupal 8 elements within a PHP syntax web page.
   * I took full advantage of Drupal8's content management system, cron-jobs, and modules. 
-
-* Experience with JSX syntax to render Components to React Dom:
-  * Took advantage of component lifecyles to make conditional JSX renders.
-  * Used Industry Standard common component refactoring so the componet can be used any where within the project.
-
-* Experience with Javascript DOM objects:
-  * Used Chrome tools to read and manipulate DOM objects.
-  * Took advantage of 
            </p>
          </details>
 
-   
 
-<p align="left">
-<h6>HTML, Javascript, PHP & JSX:</h6> 
+<details>
+           <summary><b>Used JSX and ES6 syntax with React, Nodejs, and Javascript.</b>  </summary>
+           <p>
 
-* <b>Used HTML5 and CSS3 markup with Javascript, PHP, and Jquery.</b>  
-  * <b>Used JSX and ES6 syntax with React, Nodejs, and Javascript. </b>  
-
-   
-* HTML5 experience with Drupal8, Twig, and PHP: 
-  * Used Twig templates to style drupal 8 elements within a PHP syntax web page.
-  * I took full advantage of Drupal8's content management system, cron-jobs, and modules. 
-
-* Experience with JSX syntax to render Components to React Dom:
+ * Experience with JSX syntax to render Components to React Dom:
   * Took advantage of component lifecyles to make conditional JSX renders.
-  * Used Industry Standard common component refactoring so the componet can be used any where within the project.
+  * Used Industry Standard common component refactoring so the componet could be used within any file of the project.
 
 * Experience with Javascript DOM objects:
   * Used Chrome tools to read and manipulate DOM objects.
-  * Took advantage of 
-</p>
+  * Took advantage of Javascript events and used proper event propagation and bubbling for a functional user experience. 
+           </p>
+         </details>
+
+
+
+   
 
 
 <p align="left">
