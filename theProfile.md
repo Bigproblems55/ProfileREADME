@@ -51,10 +51,8 @@
 
 
 <hr>
-<p width="100%" align="center">
-<a align="left" href="https://github.com/extrude575757/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=extrude575757&show_icons=true&theme=gotham"></a>
-<a align="right" href="https://github.com/extrude575757">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=extrude575757&langs_count=8)](https://github.com/extrude575757/github-readme-stats)</a>
+<p width="100%" align="left">
+<a align="left" href="https://github.com/extrude575757/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=extrude575757&show_icons=true&theme=gotham"></a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=extrude575757&langs_count=8)](https://github.com/extrude575757/github-readme-stats)
 
 </p>
 <hr>
