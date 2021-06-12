@@ -4,24 +4,29 @@
 </p>
 
 <p>More Coming soon!</p>
-
-<h2>Organization I'm Currently At:</h2>
 <hr><br>
+<h2>Organization I'm Currently At:</h2>
+<br>
 - [Lambda-School-Labs](https://github.com/Lambda-School-Labs)[:drum:]
-
 <br>
 <h4>Past organizations i've been at:</h4>
+<br>
 - [Pintereach1](https://github.com/Pintereach1)[:cyclone:]
+<br>
 - [PTBW-Water-My-Plants](https://github.com/PTBW-Water-My-Plants)[:evergreen_tree:]
+<br>
 - [Build-Week-secretfamilyrecipes-2020](https://github.com/Build-Week-secretfamilyrecipes-2020)[:avocado:]
+<br>
 - [Build-week-secret-family-recipes-9](https://github.com/Build-week-secret-family-recipes-9)[:plate_with_cutlery:]
-
-
+<br>
+<hr>
+<br>
 
 ### Tools & Languages I work with!
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a src="https://postgresql.com/"><img src="https://icons8.com/icon/38561/postgresql"></a>
 <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
 <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
 <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
