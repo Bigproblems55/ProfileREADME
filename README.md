@@ -8,9 +8,26 @@
 </p>
 
 
-Markup : <details>
-           <summary>Title 1</summary>
-           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+<h6>HTML, Javascript, PHP & JSX:</h6>  <details>
+           <summary>HTML, Javascript, PHP & JSX:</summary>
+           <p>
+           
+* <b>Used HTML5 and CSS3 markup with Javascript, PHP, and Jquery.</b>  
+  * <b>Used JSX and ES6 syntax with React, Nodejs, and Javascript. </b>  
+
+   
+* HTML5 experience with Drupal8, Twig, and PHP: 
+  * Used Twig templates to style drupal 8 elements within a PHP syntax web page.
+  * I took full advantage of Drupal8's content management system, cron-jobs, and modules. 
+
+* Experience with JSX syntax to render Components to React Dom:
+  * Took advantage of component lifecyles to make conditional JSX renders.
+  * Used Industry Standard common component refactoring so the componet can be used any where within the project.
+
+* Experience with Javascript DOM objects:
+  * Used Chrome tools to read and manipulate DOM objects.
+  * Took advantage of 
+           </p>
          </details>
 
    
