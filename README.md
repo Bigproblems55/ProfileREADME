@@ -118,10 +118,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=extrude575757&langs_count=8&layout=compact)](https://github.com/extrude575757/github-readme-stats)
 
-
+<img width="20%" align="right" src="https://images.credly.com/size/240x240/images/bd26a157-c655-4383-9707-a1bd6576f153/lambda-badge-full-stack-web.png" alt="lambda webdev" /> 
 
 </p>
-<img width="20%" align="right" src="https://images.credly.com/size/240x240/images/bd26a157-c655-4383-9707-a1bd6576f153/lambda-badge-full-stack-web.png" alt="lambda webdev" > 
+
 <hr>
 
 <h2 align="center">Repositories</h2>
