@@ -7,30 +7,31 @@
 
 
 <p><b><i>HTML,PHP & JSX:</i></b> 
- 
-   In PHP I used Twig templates to style drupal 8 elements within a web page.
-* HTML5 element experience with JSX, Twig, and PHP syntax. 
-  * In PHP I used Twig templates to style drupal 8 elements within a web page.
+I have used HTML5 and CSS3 markup with Javascript, PHP, and Jquery. Through JSX and ES6 syntax I have used React, Nodejs, and Javascript.   
 
-  * HTML5 element experience with JSX, Twig, and PHP syntax: 
-* Item 2
-  * Item 2a
-  * Item 2b
+
+ 
+   
+* HTML5 experience with Drupal8, Twig, and PHP: 
+  * In PHP I used Twig templates to style drupal 8 elements within a web page.
+  * I took full advantage of Drupal8's content management system, cron-jobs, and modules. 
+
+
 </p>
 <hr>
 <h4>Organization I'm Currently At:</h4>
 <br>
-- <b>Lambda-School-Labs</b>(https://github.com/Lambda-School-Labs):drum:
+- <b>Lambda-School-Labs</b>(https://github.com/Lambda-School-Labs) :drum:
 <br>
 <h5>Past organizations i've been at:</h5>
 
-- <b>Pintereach1</b>(https://github.com/Pintereach1):cyclone:
+- <b>Pintereach1</b>(https://github.com/Pintereach1) :cyclone:
 <br>
-- <b>PTBW-Water-My-Plants</b>(https://github.com/PTBW-Water-My-Plants):evergreen_tree:
+- <b>PTBW-Water-My-Plants</b>(https://github.com/PTBW-Water-My-Plants) :evergreen_tree:
 <br>
-- <b>Build-Week-secretfamilyrecipes-2020</b>(https://github.com/Build-Week-secretfamilyrecipes-2020):avocado:
+- <b>Build-Week-secretfamilyrecipes-2020</b>(https://github.com/Build-Week-secretfamilyrecipes-2020) :avocado:
 <br>
-- <b>Build-week-secret-family-recipes-9</b>(https://github.com/Build-week-secret-family-recipes-9):plate_with_cutlery:
+- <b>Build-week-secret-family-recipes-9</b>(https://github.com/Build-week-secret-family-recipes-9) :plate_with_cutlery:
 <hr>
 <br>
 
@@ -46,8 +47,15 @@
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+<h6>Skills</h6>
 
-
+* <b>Successful with:</b>
+  * UML flow-chart creation and WYSIWYG editors.
+  * Popular UX/UI Designing, Accessability, & Cross Compatability.
+  * Testing, Loging, Commenting, & Stack Debugging.
+  * Front/Back-end coding, SASS/LESS/CSS styling, along with 3D Libaries.
+  * Git, gist, & mercurial reversioning.
+  * Gimp, Inkscape, Blender, & photo-shop imaging, texturing and design pattern principles.
 ### 📫 Get In Touch
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/web-dev-nicholas-lacapria//)<a href="mailto:nicholas.a.lacapria@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
