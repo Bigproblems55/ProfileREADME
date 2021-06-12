@@ -3,7 +3,14 @@
 <h3>Mern Stack Web Developer for Hire!</h3>
 </p>
 
-<p>More Coming soon!</p>
+
+
+
+<p><b><i>HTML,PHP & JSX:</i></b> 
+* HTML5 element experience with JSX, Twig, and PHP syntax. 
+  * In PHP I used Twig templates to style drupal 8 elements within a web page.
+
+</p>
 <hr>
 <h4>Organization I'm Currently At:</h4>
 <br>
