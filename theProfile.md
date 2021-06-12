@@ -15,9 +15,9 @@
 <br>
 - <b>PTBW-Water-My-Plants</b>(https://github.com/PTBW-Water-My-Plants)[:evergreen_tree:]
 <br>
-- [**Build-Week-secretfamilyrecipes-2020**](https://github.com/Build-Week-secretfamilyrecipes-2020)[:avocado:]
+- [<b>Build-Week-secretfamilyrecipes-2020</b>](https://github.com/Build-Week-secretfamilyrecipes-2020)[:avocado:]
 <br>
-- [**Build-week-secret-family-recipes-9**](https://github.com/Build-week-secret-family-recipes-9)[:plate_with_cutlery:]
+- <b>Build-week-secret-family-recipes-9</b>(https://github.com/Build-week-secret-family-recipes-9)[:plate_with_cutlery:]
 <hr>
 <br>
 
