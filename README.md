@@ -1,9 +1,17 @@
-<p width="100%" height="200px" color="blue">
-
+<p width="100%" height="100%" bgcolor="blue">
 <h1 color="red"  align="center">Nicholas Anthony Lacapria </h1> 
+<h3>Mern Stack Developer for Hire!</h3>
 </p>
 
 <p>More Coming soon!</p>
+
+#### Current working organization:
+
+- [Lambda-School-Labs](https://github.com/Lambda-School-Labs)
+
+#### Past Organizations:
+- [Pintereach1](https://github.com/Pintereach1)
+
 
 ### Tools & Languages I work with!
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
