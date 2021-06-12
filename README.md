@@ -206,13 +206,13 @@
   
   <a align="right" href="https://github.com/extrude575757/React-Testing-TV-Show" title="React Testing TV Show"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=extrude575757&repo=React-Testing-TV-Show&theme=gotham"></a>
 </p>
-<br>
-<br>
-<hr>
+
 
 
 
 
 <p align="center">
+<br>
+<hr>
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=extrude575757.ProfileREADME" id="counter">
 </p>
