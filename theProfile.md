@@ -7,13 +7,13 @@
 <hr>
 <h4>Organization I'm Currently At:</h4>
 <br>
-- [**Lambda-School-Labs**](https://github.com/Lambda-School-Labs)[:drum:]
+- **Lambda-School-Labs**(https://github.com/Lambda-School-Labs)[:drum:]
 <br>
 <h5>Past organizations i've been at:</h5>
 <br>
-- [**Pintereach1**](https://github.com/Pintereach1)[:cyclone:]
+- [__Pintereach1__](https://github.com/Pintereach1)[:cyclone:]
 <br>
-- [**PTBW-Water-My-Plants**](https://github.com/PTBW-Water-My-Plants)[:evergreen_tree:]
+- <b>PTBW-Water-My-Plants</b>(https://github.com/PTBW-Water-My-Plants)[:evergreen_tree:]
 <br>
 - [**Build-Week-secretfamilyrecipes-2020**](https://github.com/Build-Week-secretfamilyrecipes-2020)[:avocado:]
 <br>
