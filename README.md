@@ -64,13 +64,13 @@
 <details>
            <summary><b><a href="https://pedantic-lichterman-c811ec.netlify.app">Water my Plants</a></b> </summary>
            <p>
-           This project was done after learning the first Section of react before I learned what backend code looked like. It was a login form and used an automatic form validation library with javascript to test the user’s input. It has a nice earthly background and is the start to a great login/registration page.  
+
+- [x] This project was done after learning the first Section of react before I learned what backend code looked like. It was a login form and used an automatic form validation library with javascript to test the user’s input. It has a nice earthly background and is the start to a great login/registration page.  
            </p>
-         </details>
+</details>
 
 
-Water my Plants— https://pedantic-lichterman-c811ec.netlify.app/  
-This project was done after learning the first Section of react before I learned what backend code looked like. It was a login form and used an automatic form validation library with javascript to test the user’s input. It has a nice earthly background and is the start to a great login/registration page.  
+
 Pentireach App and Marketing Page— https://distracted-joliot-156406.netlify.app/  https://loving-einstein-b5195c.netlify.app/  
 The pentereach app is designed to allow a user to place articles within containers for research. This project was made from scratch right after learning Javascript, which was the 2nd section before learning React as a front-end design library. The main goal of the project was to demonstrate responsiveness, styling with flex, and a few functionality features with Javascript. 
 Portfolio Page— https://cranky-morse-e5b98a.netlify.app/  
