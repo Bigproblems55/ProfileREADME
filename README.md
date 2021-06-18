@@ -12,7 +12,7 @@
 
 </p>
 <p align="left">
-
+<h3><a href="https://docs.google.com/document/d/1r2-chwDNHayg-r1JFp0AznEsQWdPh9bjPm8xcH_AVDE/edit?usp=sharing">Nicholas Anthony Lacapria's Resume</a></h3>
 <h6>HTML, Javascript, PHP & JSX:</h6>  
 <details>
            <summary><b>Used HTML5 and CSS3 markup with Javascript, PHP, and Jquery.</b></summary>
@@ -94,16 +94,16 @@
 
 
 <hr>
-<p align="right">
+<p align="left">
 
 - :skull: I'm currently working on <a href="https://github.com/Lambda-School-Labs/story-squad-fe">Lambda Labs Story Squad FrontEnd Dev</a>
-- :memo: :pencil: I'm currently learning <a href="https://www.youtube.com/watch?v=LsNW4FPHuZE">Unreal Engine using C++</a>
+- :memo: I'm currently learning <a href="https://www.youtube.com/watch?v=LsNW4FPHuZE">Unreal Engine using C++</a>
 - :paperclip: I'm looking to collaborate on any projects that can make me money :money_with_wings: or help the community. 
 - :bat: I'm looking for help with <a href="https://regexr.com/">Regex Pattern manipulation</a>
 - :swan: Ask me about  <a href="https://trello.com/invite/rouletteprogramming/a02a0c8c9ac1ef64f0965fa269c3e9df" title="See my trello boards for a invite to work on live projects">any trello board development projects to build web apps, tools, or games </a>
 - :mailbox: How to reach me [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/web-dev-nicholas-lacapria//)<a href="mailto:nicholas.a.lacapria@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
-- :zebra:  Pronouns Fullstack Web Developer, Programmer, and Software Engineer
+- :zebra:  Pronouns <b>Fullstack Web Developer, Programmer, and Software Engineer</b>
 -  :strawberry: :grapes: Fun fact If two pieces of the same type of metal touch in space, they will bond and be permanently stuck together. This amazing effect is called cold welding. It happens because the atoms of the individual pieces of metal have no way of knowing that they are different pieces of metal, so the lumps join together.This wouldn't happen on Earth because there is air and water separating the pieces. Its similar to principles of metal-based construction within vacuums.
 </p>
 <h4>Organization I'm Currently At:</h4>
