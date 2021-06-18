@@ -76,20 +76,24 @@
            <summary><b><a href="https://distracted-joliot-156406.netlify.app/">Pentireach App </a> or <a href="https://loving-einstein-b5195c.netlify.app/"> Pentireach Marketing Page</a></b> <a title="Pentereach app"href="https://github.com/Pintereach1/front-end"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a title="build week on github" href="https://github.com/Pintereach1/marketingsite"><img src="https://img.icons8.com/fluent/48/000000/repository.png"/></a></summary>
            <p>
 
-- [x] Made from <b>Aug. 14, 2020 - Aug. 27, 2020 </b> <a title="deployed on netlify" href="https://distracted-joliot-156406.netlify.app/"><img src="https://img.icons8.com/fluent/50/000000/web-design.png"/></a>  <a title="deployed on netlify" href="https://loving-einstein-b5195c.netlify.app"><img src="https://img.icons8.com/fluent/50/000000/web-design.png"/></a>
+- [x] Made from <b>Aug. 14, 2020 - Aug. 27, 2020 </b> <a title="App on netlify" href="https://distracted-joliot-156406.netlify.app/"><img src="https://img.icons8.com/fluent/50/000000/web-design.png"/></a>  <a title="Marketing on netlify" href="https://loving-einstein-b5195c.netlify.app"><img src="https://img.icons8.com/nolan/64/web-design.png"/></a>
 
 - [x] The pentereach app is designed to allow a user to place articles within containers for research. This project was made from scratch right after learning Javascript, which was the 2nd section before learning React as a front-end design library. The main goal of the project was to demonstrate responsiveness, styling with flex, and a few functionality features with Javascript.  
-
 
 - [x] Made with <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a> <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a><a href="https://github.com/Pintereach1/marketingsite"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a><a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a><a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a><a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
            </p>
 </details>
 <br>
 <details>
-           <summary><b><a href="https://cranky-morse-e5b98a.netlify.app/">Portfolio Page </a></b> </summary>
+           <summary><b><a title="Version 1" href="https://cranky-morse-e5b98a.netlify.app/">Portfolio Site V1 </a><a title="Version 2" href="https://wonderful-hawking-80801b.netlify.app/">Portfolio Site V2 </a></b> </summary>
            <p>
 
-- [x] The main portfolio page where I will be showcasing all projects. Right now only the ones I began with before React’s front-end design section are included. There are more to come as I start to deploy them from github, they will all be added here.
+- [x] Made from <b>July 16, 2020 - July. 22, 2020 </b> <a title="Version 1 Portfolio on netlify" href="https://cranky-morse-e5b98a.netlify.app/"><img src="https://img.icons8.com/fluent/50/000000/web-design.png"/></a>  <a title="Version Two Portfolio" href="https://wonderful-hawking-80801b.netlify.app/"><img src="https://img.icons8.com/nolan/64/web-design.png"/></a>
+
+- [x] The main portfolio page where I will be showcasing all projects. Right now only the ones I began with before React’s front-end design section are included. There are more to come as I start to deploy them from github, they will all be added here. The first link is the first version and the second link is the 2nd version which has more projects on it. Because a portfolio is so important I have two different domains its being hosted on. In the event that one link does not working properly. The other link should be dependable enough.  
+
+- [x] Made with <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a><a href="https://github.com/extrude575757/Responsive-Design/tree/Nicholas-Lacapria"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a><a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a><a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a><a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+
            </p>
 </details>
 <br>
