@@ -58,16 +58,7 @@
          </details>
 
 </p>
-<p align="right">
--  I'm currently working on ...
--  I'm currently learning ...
--  I'm looking to collaborate on ...
--  I'm looking for help with ... 
--  Ask me about ...
--  How to reach me ...
--  Pronouns ...
--  Fun fact ...
-</p>
+
 <h6>Projects:</h6> 
 <details>
            <summary><b><a href="https://pedantic-lichterman-c811ec.netlify.app">Water my Plants</a></b> </summary>
@@ -103,6 +94,17 @@
 
 
 <hr>
+<p align="right">
+
+- :skull: I'm currently working on <a href="https://github.com/Lambda-School-Labs/story-squad-fe">Lambda Labs Story Squad FrontEnd Dev</a>
+- :memo: :pencil: I'm currently learning <a href="https://www.youtube.com/watch?v=LsNW4FPHuZE">Unreal Engine using C++</a>
+- :paperclip: I'm looking to collaborate on any projects that can make me money :money_with_wings: or help the community. 
+- :bat: I'm looking for help with <a href="https://regexr.com/">Regex Pattern manipulation</a>
+- :swan: Ask me about  <a href="https://trello.com/invite/rouletteprogramming/a02a0c8c9ac1ef64f0965fa269c3e9df" title="See my trello boards for a invite to work on live projects">any trello board development projects to build web apps, tools, or games </a>
+- :mailbox: How to reach me ...
+- :zebra:  Pronouns ...
+-  :strawberry: :grapes: Fun fact If two pieces of the same type of metal touch in space, they will bond and be permanently stuck together. This amazing effect is called cold welding. It happens because the atoms of the individual pieces of metal have no way of knowing that they are different pieces of metal, so the lumps join together.This wouldn't happen on Earth because there is air and water separating the pieces. Its similar to principles of metal-based construction within vacuums.
+</p>
 <h4>Organization I'm Currently At:</h4>
 
 - <b>Lambda-School-Labs</b>(https://github.com/Lambda-School-Labs) :drum:
