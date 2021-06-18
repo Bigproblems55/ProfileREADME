@@ -61,10 +61,10 @@
 
 <h6>Projects:</h6> 
 <details>
-           <summary><b><a href="https://pedantic-lichterman-c811ec.netlify.app"><img src="https://img.icons8.com/fluent/48/000000/repository.png"/>Water my Plants</a></b><a title="personal repo deployed from"href="https://github.com/extrude575757/waterplantsApp"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a title="build week on github" href="https://github.com/PTBW-Water-My-Plants/front-end/tree/Nicholas-Lacapria"><img src="https://img.icons8.com/fluent/48/000000/repository.png"/></a></summary>
+           <summary><b><a href="https://pedantic-lichterman-c811ec.netlify.app">Water my Plants</a></b><a title="personal repo deployed from"href="https://github.com/extrude575757/waterplantsApp"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a title="build week on github" href="https://github.com/PTBW-Water-My-Plants/front-end/tree/Nicholas-Lacapria"><img src="https://img.icons8.com/fluent/48/000000/repository.png"/></a></summary>
            <p>
 
-- [x] Made from <b>Oct. 11, 2020 - Oct. 22, 2020</b> <a href="https://pedantic-lichterman-c811ec.netlify.app"><img src="https://img.icons8.com/fluent/50/000000/web-design.png"/></a>
+- [x] Made from <b>Oct. 11, 2020 - Oct. 22, 2020</b> <a title="deployed on netlify" href="https://pedantic-lichterman-c811ec.netlify.app"><img src="https://img.icons8.com/fluent/50/000000/web-design.png"/></a>
 
 - [x] This project was done after learning the first Section of react before I learned what backend code looked like. It was a login form and used an automatic form validation library with javascript to test the user’s input. It has a nice earthly background and is the start to a great login/registration page.  
 
@@ -73,10 +73,15 @@
 </details>
 <br>
 <details>
-           <summary><b><a href="https://distracted-joliot-156406.netlify.app/">Pentireach App </a> or <a href="https://loving-einstein-b5195c.netlify.app/"> Pentireach Marketing Page</a></b> </summary>
+           <summary><b><a href="https://distracted-joliot-156406.netlify.app/">Pentireach App </a> or <a href="https://loving-einstein-b5195c.netlify.app/"> Pentireach Marketing Page</a></b> <a title="Pentereach app"href="https://github.com/Pintereach1/front-end"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a title="build week on github" href="https://github.com/Pintereach1/marketingsite"><img src="https://img.icons8.com/fluent/48/000000/repository.png"/></a></summary>
            <p>
 
+- [x] Made from <b>Aug. 14, 2020 - Aug. 27, 2020 </b> <a title="deployed on netlify" href="https://distracted-joliot-156406.netlify.app/"><img src="https://img.icons8.com/fluent/50/000000/web-design.png"/></a>  <a title="deployed on netlify" href="https://loving-einstein-b5195c.netlify.app"><img src="https://img.icons8.com/fluent/50/000000/web-design.png"/></a>
+
 - [x] The pentereach app is designed to allow a user to place articles within containers for research. This project was made from scratch right after learning Javascript, which was the 2nd section before learning React as a front-end design library. The main goal of the project was to demonstrate responsiveness, styling with flex, and a few functionality features with Javascript.  
+
+
+- [x] Made with <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a> <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a><a href="https://github.com/Pintereach1/marketingsite"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a><a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a><a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a><a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
            </p>
 </details>
 <br>
