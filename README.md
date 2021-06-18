@@ -61,12 +61,14 @@
 
 <h6>Projects:</h6> 
 <details>
-           <summary><b><a href="https://pedantic-lichterman-c811ec.netlify.app">Water my Plants</a></b><a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a></summary>
+           <summary><b><a href="https://pedantic-lichterman-c811ec.netlify.app">Water my Plants</a></b><a src="https://github.com/extrude575757/waterplantsApp"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a src="https://github.com/PTBW-Water-My-Plants/front-end/tree/Nicholas-Lacapria"><img src="https://img.icons8.com/material-two-tone/50/000000/github.png"/></a></summary>
            <p>
+
+- [x] Made from <b>Oct. 11, 2020 - Oct. 22, 2020</b>
 
 - [x] This project was done after learning the first Section of react before I learned what backend code looked like. It was a login form and used an automatic form validation library with javascript to test the user’s input. It has a nice earthly background and is the start to a great login/registration page.  
 
-- [x] Made with <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a> <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+- [x] Made with <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a> <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a><a src="https://github.com/PTBW-Water-My-Plants/front-end/tree/Nicholas-Lacapria"><img src="https://img.icons8.com/material-two-tone/50/000000/github.png"/></a>
            </p>
 </details>
 <br>
