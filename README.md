@@ -85,7 +85,7 @@
 </details>
 <br>
 <details>
-           <summary><b><a title="Version 1" href="https://cranky-morse-e5b98a.netlify.app/">Portfolio Site V1 </a><a title="Version 2" href="https://wonderful-hawking-80801b.netlify.app/">Portfolio Site V2 </a></b> </summary>
+           <summary><b><a title="Version 1" href="https://cranky-morse-e5b98a.netlify.app/">Portfolio Site V1 </a><a title="Version 2" href="https://wonderful-hawking-80801b.netlify.app/">Portfolio Site V2 </a></b> <a href="https://github.com/extrude575757/Responsive-Design/tree/Nicholas-Lacapria"><img src="https://img.icons8.com/color/48/000000/github.png"/></a></summary>
            <p>
 
 - [x] Made from <b>July 16, 2020 - July. 22, 2020 </b> <a title="Version 1 Portfolio on netlify" href="https://cranky-morse-e5b98a.netlify.app/"><img src="https://img.icons8.com/fluent/50/000000/web-design.png"/></a>  <a title="Version Two Portfolio" href="https://wonderful-hawking-80801b.netlify.app/"><img src="https://img.icons8.com/nolan/64/web-design.png"/></a>
@@ -98,10 +98,15 @@
 </details>
 <br>
 <details>
-           <summary><b><a href="https://focused-hugle-a34bbe.netlify.app">Yosemite Parks Page</a></b> </summary>
+           <summary><b><a href="https://focused-hugle-a34bbe.netlify.app">Yosemite Parks Page</a></b> <a href="https://github.com/extrude575757/web-module-project-intro-css/tree/Nicholas-Lacapria"><img src="https://img.icons8.com/color/48/000000/github.png"/></a> <a title="Intro to CSS Module" href="https://focused-hugle-a34bbe.netlify.app"><img src="https://img.icons8.com/fluent/50/000000/web-design.png"/></a> </summary>
            <p>
            
-- [x] This was at the end of the first section where we learned what CSS is and how to make elements responsive with flex display settings. After passing this section and getting comfortable with positioning elements I made a roulette table as a personal project to gain a better understanding through this newly emerged skill.
+- [x] Made from <b>July 9, 2020 - July. 14, 2020 </b> <a title="Intro to CSS Project" href="https://focused-hugle-a34bbe.netlify.app"><img src="https://img.icons8.com/fluent/50/000000/web-design.png"/></a> 
+
+- [x] This was at the end of the first section where we learned what CSS is and how to make elements responsive with flex display settings. After passing this section and getting comfortable with positioning elements I moved onto Javascript where I would study how to make these nicely styled elements have functionality.
+
+- [x] Made with <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a><a href="https://github.com/extrude575757/web-module-project-intro-css/tree/Nicholas-Lacapria"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a><a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a><a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a><a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+
            </p>
 </details>
 
