@@ -61,10 +61,10 @@
 
 <h6>Projects:</h6> 
 <details>
-           <summary><b><a href="https://pedantic-lichterman-c811ec.netlify.app">Water my Plants</a></b><a title="personal repo deployed from"href="https://github.com/extrude575757/waterplantsApp"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a title="build week on github" href="https://github.com/PTBW-Water-My-Plants/front-end/tree/Nicholas-Lacapria"><img src="https://img.icons8.com/fluent/48/000000/repository.png"/></a></summary>
+           <summary><b><a href="https://pedantic-lichterman-c811ec.netlify.app"><img src="https://img.icons8.com/fluent/48/000000/repository.png"/>Water my Plants</a></b><a title="personal repo deployed from"href="https://github.com/extrude575757/waterplantsApp"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a title="build week on github" href="https://github.com/PTBW-Water-My-Plants/front-end/tree/Nicholas-Lacapria"><img src="https://img.icons8.com/fluent/48/000000/repository.png"/></a></summary>
            <p>
 
-- [x] Made from <b>Oct. 11, 2020 - Oct. 22, 2020</b>
+- [x] Made from <b>Oct. 11, 2020 - Oct. 22, 2020</b> <a href="https://pedantic-lichterman-c811ec.netlify.app"><img src="https://img.icons8.com/fluent/50/000000/web-design.png"/></a>
 
 - [x] This project was done after learning the first Section of react before I learned what backend code looked like. It was a login form and used an automatic form validation library with javascript to test the user’s input. It has a nice earthly background and is the start to a great login/registration page.  
 
