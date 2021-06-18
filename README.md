@@ -81,7 +81,10 @@
 - [x] The pentereach app is designed to allow a user to place articles within containers for research. This project was made from scratch right after learning Javascript, which was the 2nd section before learning React as a front-end design library. The main goal of the project was to demonstrate responsiveness, styling with flex, and a few functionality features with Javascript.  
 
 - [x] Made with <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a> <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a><a href="https://github.com/Pintereach1/marketingsite"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a><a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a><a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a><a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-           </p>
+           
+
+</p>
+
 </details>
 <br>
 <details>
@@ -94,7 +97,7 @@
 
 - [x] Made with <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a><a href="https://github.com/extrude575757/Responsive-Design/tree/Nicholas-Lacapria"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a><a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a><a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a><a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 
-           </p>
+</p>
 </details>
 <br>
 <details>
@@ -107,7 +110,7 @@
 
 - [x] Made with <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a><a href="https://github.com/extrude575757/web-module-project-intro-css/tree/Nicholas-Lacapria"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a><a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a><a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a><a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 
-           </p>
+</p>
 </details>
 
 
