@@ -13,30 +13,6 @@
 </p>
 <p align="left">
 <h3><a href="https://docs.google.com/document/d/1r2-chwDNHayg-r1JFp0AznEsQWdPh9bjPm8xcH_AVDE/edit?usp=sharing">Nicholas Anthony Lacapria's Resume</a></h3>
-
-<hr>
-<h3>Giving Feedback </h3>
-
-- 1. What's an example of an issue I have had in working with another team member? How have I addressed it?
-
-I have not experienced much confrentation because I have always been open to new ideas or thoughts on projects different than mine, but one time I did recieve feedback from a team memeber who wanted different styling done within the project than I had already. They said they had originally used a WYSIWYG editor to create the HTML and CSS for the project to create a typical look and styling through the app, so my styling I had already done did not match what they had already intended for the project. I did not want their stylings to go to waste so I quickly copied the CSS over into the project and remade all the elements to fit what they had intended in the first place. After seeing what they wanted I saw my development module fit much better with all the other components and pages already within the project. This was important since what I originally had made me standout from everyone because the styling did not look nuetrual with everyone else's moduels.     
-
-
-- 2. What are some benefits and challenges to working with the different personalities and work styles on my team? 
-
-I think it is great to see views or opinions different than mine when it comes to working on a project. I am new to the professional MERN stack dev. field so I think learning from others who have had more experience than me is important. I am interested in collaborating with everyone else who have different personalities or cultural views than I have. I believe I could benefit by seeing the differences of coding styles I have to them so I could aquire a productive, programmatic way to produce and test the most efficient software while developing. When I look at technology and why it is technology has evolved into what it is now from the beginning, I think the most important aspect to molding greater software products is the ability to learn from other examples or styles of code that make development most important.        
-
-<h3>Recieving Feedback </h3>
-
-- 1. How do your teammates tend to describe you?
-What's the most difficult piece of feedback you've ever received?
-
-Teammates tend to describe me as dilligent, productive, and receptive to change. I think the need for change in technology should always be ongoing so the most difficult pieces of feedback to recieve is feedback on code where no changes are expected. I have always been accustomed to search for changes even after MVP has been made.
-
-- 2. How have you incorporated that feedback into your personal development?
-
-I think natural code refactoring, functional recursion, explicit/implicit object referencing, or data encapsulation are all great examples to recieving feedback on changing a module that has already met standard MVP expectations. Fundamentally these concepts are all great ways to polish any finished piece into a professional build that should withstand any future updates, tests or new build/deployment.   
-
 <h6>HTML, Javascript, PHP & JSX:</h6>  
 <details>
            <summary><b>Used HTML5 and CSS3 markup with Javascript, PHP, and Jquery.</b></summary>
