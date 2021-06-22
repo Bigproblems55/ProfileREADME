@@ -40,7 +40,23 @@ I think natural code refactoring, functional recursion, explicit/implicit object
 <hr>
 <h2>About</h2>
 
-I am skilled in flow-chart creation to design popular user interfaces and user experience designs to streamline cross compatibility and accessibility. I am very interested in creating websites, applications, and games to display similar user experiences despite differences of client screen size. I have contributed to projects and worked in teams with other programmers to design projects that complete goals outlined within the rubric or user's story.   
+I am skilled in flow-chart creation to design popular user interfaces and user experience designs to streamline cross compatibility and accessibility. I am very interested in creating websites, applications, and games to display similar user experiences despite differences of client screen size. I have contributed to projects and worked in teams with other programmers to design projects that complete goals outlined within the rubric or user's story. I am currently interested in PERN/MERN stack development jobs where nodejs, express, and react are being used for websites, games, or software development. 
+
+<hr>
+<h2>Education</h2>
+<b>Lambda School of Code, Online</b><i> — Full Stack Web Development & Data Science</i>
+<br>
+MAR 2020 - JULY 2021
+<br>
+Completed projects, assignments, & new material walkthrough examples all pertaining to Framework Testing, CSS, Javascript, React, Node.js, & Computer Science in Python. At the end of the last course’s section was lab assignments where I got to experience what it is like to work with a team to design a project from scratch or by other programmer’s code. Readme documentation was written and trello boards were used to stay  organized as to who would complete what user stories for pull requests on the finished project. This is where I have gained my skill sets to have the confidence to participate in testing and developing real front/back-end design projects. Lambda has taught me very valuable skill sets that will make me an in demand developer. Not only have I gained valuable guided walk through code but I have also been able to participate in my own assignments where I was able to exercise what I learned. The school is very determined to supply all the tools needed for me to land a career making over $50,000 a year. They prove this by offering career coaches who guide all students on what is needed to gain a career in the tech field as a full stack developer by using the newest most stable technology available today.    
+<br>
+<br>
+<b>Udemy, Online </b> <i> - E-commerce/Web Development, Penetration Testing, 3D-Graphical Designs & Game Development</i>
+<br>
+JAN 2015 - PRESENT
+<br>
+This is where I have gained experience with PHP  and learned what regex is to create e-commerce development level projects which use an admin exclusive content management system for all products and features easily moderated by the admin. I took courses here on network penetration testing & ethical hacking which not only opened my understanding on how to benchmark the security of an OS or network on a virtual machine, but it also helped me make the switch from windows to linux to use as a main operating system with Debian. This is also where I gained experience with CryEngine, Unity, and Unreal Engine to learn how to create 3D games with C++ or C#. 3D games were what first sparked my interest to become a developer . The very first gaming library I gained experience on was XNA using C# because I wanted to make an Xbox game. That then led to learning how to create 3D models and animations with Blender. After learning enough about Blender I realized I needed to first know more about Python to create good animation and 3D modeling scripts. The long haul at Udemy kept bringing me back to a real understanding of if I wanted to start off a career as a programer it might be best to learn React and Redux state management, get much better at Javascript, and learn how to manage a persistent database across a network with Node.js; this is why I chose to attend Lambda.     
+
 
 <hr>
 <h2>Experience</h2>
