@@ -37,9 +37,11 @@ Teammates tend to describe me as dilligent, productive, and receptive to change.
 
 I think natural code refactoring, functional recursion, explicit/implicit object referencing, or data encapsulation are all great examples to recieving feedback on changing a module that has already met standard MVP expectations. Fundamentally these concepts are all great ways to polish any finished piece into a professional build that should withstand any future updates, tests or new build/deployment.   
 
+<hr>
+
 <h6>HTML, Javascript, PHP & JSX:</h6>  
 <details>
-           <summary><b>Used HTML5 and CSS3 markup with Javascript, PHP, and Jquery.</b></summary>
+           <summary><b>Normalized HTML5 and CSS3 styling markup with Javascript through nodejs libraries to create web apps that streamline a niched user experience.</b></summary>
            <p>
 
 * HTML5 experience with Drupal8, Twig, and PHP: 
@@ -50,7 +52,7 @@ I think natural code refactoring, functional recursion, explicit/implicit object
 
 
 <details>
-           <summary><b>Used JSX and ES6 syntax with React, Nodejs, and Javascript.</b>  </summary>
+           <summary><b>Commited JSX and ES6 syntax with React to public github repos that contain single paged web apps designed for user interaction.</b>  </summary>
            <p>
 
 * Experience with JSX syntax to render Components to React Dom:
@@ -66,7 +68,7 @@ I think natural code refactoring, functional recursion, explicit/implicit object
 
 <h6>CSS3,LESS & SASS:</h6> 
 <details>
-           <summary><b>Used CSS, Less, SASS, & 3d animation libaries</b> </summary>
+           <summary><b>Styled CSS/Less/SASS elements to display component layouts and position elements to automatically configure themself based on the user's screen space</b> </summary>
            <p>
 
 * CSS3 styling:
@@ -115,7 +117,7 @@ I think natural code refactoring, functional recursion, explicit/implicit object
            <summary><b><a title="Version 1" href="https://cranky-morse-e5b98a.netlify.app/">Portfolio Site V1 </a><a title="Version 2" href="https://wonderful-hawking-80801b.netlify.app/">Portfolio Site V2 </a></b> <a href="https://github.com/extrude575757/Responsive-Design/tree/Nicholas-Lacapria"><img src="https://img.icons8.com/color/48/000000/github.png"/></a></summary>
            <p>
 
-- [x] Made from <b>July 16, 2020 - July. 22, 2020 </b> <a title="Version 1 Portfolio on netlify" href="https://cranky-morse-e5b98a.netlify.app/"><img src="https://img.icons8.com/fluent/50/000000/web-design.png"/></a>  <a title="Version Two Portfolio" href="https://wonderful-hawking-80801b.netlify.app/"><img src="https://img.icons8.com/nolan/64/web-design.png"/></a>
+- [x] Made from <b>July 16, 2020 - July. 22, 2020 </b> <a title="Version 1 Portfolio on netlify" href="https://cranky-morse-e5b98a.netlify.app/"><img src="https://img.icons8.com/fluent/50/000000/web-design.png"/></a>  <a title="Version Two Portfolio" href="https://wonderful-hawking-80801b.netlify.app/"><img src="https://img.icons8.com/nolan/64/web-design.png"/></a><a title="Portfolio V1" href="https://cranky-morse-e5b98a.netlify.app/"><img src="https://img.icons8.com/fluent/50/000000/web-design.png"/></a><a title="Portfolio V2" href="https://wonderful-hawking-80801b.netlify.app/"><img src="https://img.icons8.com/nolan/64/web-design.png"/></a>
 
 - [x] The main portfolio page where I will be showcasing all projects. Right now only the ones I began with before React’s front-end design section are included. There are more to come as I start to deploy them from github, they will all be added here. The first link is the first version and the second link is the 2nd version which has more projects on it. Because a portfolio is so important I have two different domains its being hosted on. In the event that one link does not working properly. The other link should be dependable enough.  
 
