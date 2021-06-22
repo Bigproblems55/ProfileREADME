@@ -83,12 +83,12 @@ I am skilled in flow-chart creation to design popular user interfaces and user e
 
 
 <details>
-           <summary><b>Commited JSX and ES6 syntax with React to public github repos that contain single paged web apps designed for user interaction.</b>  </summary>
+           <summary><b>Committed JSX and ES6 syntax with React to public github repos that contain single paged web apps designed for user interaction.</b>  </summary>
            <p>
 
 * Experience with JSX syntax to render Components to React Dom:
-  * Took advantage of component lifecyles to make conditional JSX renders.
-  * Used Industry Standard common component refactoring so the componet could be used within any file of the project.
+  * Took advantage of component life cycles to make conditional JSX renders.
+  * Used Industry Standard common component refactoring so the components could be used within any file of the project.
 
 * Experience with Javascript DOM objects:
   * Used Chrome tools to read and manipulate DOM objects.
@@ -99,18 +99,18 @@ I am skilled in flow-chart creation to design popular user interfaces and user e
 
 <h6>CSS3,LESS & SASS:</h6> 
 <details>
-           <summary><b>Styled CSS/Less/SASS elements to display component layouts and position elements to automatically configure themself based on the user's screen space</b> </summary>
+           <summary><b>Styled CSS/Less/SASS elements to display component layouts and position elements to automatically configure themselves based on the user's screen space</b> </summary>
            <p>
 
 * CSS3 styling:
-  * Used flex & flex-inline display as an auto responsive cross-compatable layout design.
+  * Used flex & flex-inline display as an auto responsive cross-compatible layout design.
   * Used block and inline display to position elements based on their absolute or float value. 
   * Normalized CSS with the Myers Reset & 62.5% html font size.
-  * Used at media signs to controle the element repsoniveness depending on screen size for cross-compatiblity. 
+  * Used at media signs to control the element responsiveness depending on screen size for cross-compatibility. 
 * CSS styling with Less:
-  * Used less-watch-compiler to watch a less index file for changes so it would initiate into a transpiled file of CSS syntax within the CSS styling folder.
+  * Used less-watch-compiler to watch a less index file for changes so it would initiate into a transpile file of CSS syntax within the CSS styling folder.
   * Used Less syntax indention to weight classes, ID's, and tags together for responsive Desktop First layout design. 
-  * Took advantage of mixins so variable values could be a parameter of class or id styles.  
+  * Took advantage of mixins so variable values could be a parameter of color, class, or id styles.  
            </p>
          </details>
 
@@ -190,10 +190,10 @@ I am skilled in flow-chart creation to design popular user interfaces and user e
 
 * <b>Successful with:</b>
   * UML flow-chart creation and WYSIWYG editors.
-  * Popular UX/UI Designing, Accessability, & Cross Compatability.
-  * Testing, Loging, Commenting, & Stack Debugging.
-  * Front/Back-end coding, SASS/LESS/CSS styling, along with 3D Libaries.
-  * Git, gist, & mercurial reversioning.
+  * Popular UX/UI Designing, Accessability, & Cross Compatibility.
+  * Testing, Logging, Commenting, & Stack Debugging.
+  * Front/Back-end coding, SASS/LESS/CSS styling, along with 3D Libraries.
+  * Git, gist, & mercurial reversions.
   * Gimp, Inkscape, Blender, & photo-shop imaging, texturing and design pattern principles.
 ### 📫 Get In Touch
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/web-dev-nicholas-lacapria//)<a href="mailto:nicholas.a.lacapria@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
