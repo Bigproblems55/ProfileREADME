@@ -19,26 +19,57 @@
 
 - 1. What's an example of an issue I have had in working with another team member? How have I addressed it?
 
-I have not experienced much confrentation because I have always been open to new ideas or thoughts on projects different than mine, but one time I did recieve feedback from a team memeber who wanted different styling done within the project than I had already. They said they had originally used a WYSIWYG editor to create the HTML and CSS for the project to create a typical look and styling through the app, so my styling I had already done did not match what they had already intended for the project. I did not want their stylings to go to waste so I quickly copied the CSS over into the project and remade all the elements to fit what they had intended in the first place. After seeing what they wanted I saw my development module fit much better with all the other components and pages already within the project. This was important since what I originally had made me standout from everyone because the styling did not look nuetrual with everyone else's moduels.     
+I have not experienced much confrontation because I have always been open to new ideas or thoughts on projects different than mine, but one time I did received feedback from a team member who wanted different styling done within the project than I had already. They said they had originally used a WYSIWYG editor to create the HTML and CSS for the project to create a typical look and styling through the app, so my styling I had already done did not match what they had already intended for the project. I did not want their stylings to go to waste so I quickly copied the CSS over into the project and remade all the elements to fit what they had intended in the first place. After seeing what they wanted I saw my development module fit much better with all the other components and pages already within the project. This was important since what I originally had made me standout from everyone because the styling did not look neutral with everyone elses modules.     
 
 
 - 2. What are some benefits and challenges to working with the different personalities and work styles on my team? 
 
-I think it is great to see views or opinions different than mine when it comes to working on a project. I am new to the professional MERN stack dev. field so I think learning from others who have had more experience than me is important. I am interested in collaborating with everyone else who have different personalities or cultural views than I have. I believe I could benefit by seeing the differences of coding styles I have to them so I could aquire a productive, programmatic way to produce and test the most efficient software while developing. When I look at technology and why it is technology has evolved into what it is now from the beginning, I think the most important aspect to molding greater software products is the ability to learn from other examples or styles of code that make development most important.        
+I think it is great to see views or opinions different than mine when it comes to working on a project. I am new to the professional MERN stack dev. field so I think learning from others who have had more experience than me is important. I am interested in collaborating with everyone else who have different personalities or cultural views than I have. I believe I could benefit by seeing the differences of coding styles I have to them so I could acquire a productive, programmatic way to produce and test the most efficient software while developing. When I look at technology and why it is technology has evolved into what it is now from the beginning, I think the most important aspect to molding greater software products is the ability to learn from other examples or styles of code that make development most important.        
 
-<h3>Recieving Feedback </h3>
+<h3>Receiving Feedback </h3>
 
 - 1. How do your teammates tend to describe you?
 What's the most difficult piece of feedback you've ever received?
 
-Teammates tend to describe me as dilligent, productive, and receptive to change. I think the need for change in technology should always be ongoing so the most difficult pieces of feedback to recieve is feedback on code where no changes are expected. I have always been accustomed to search for changes even after MVP has been made.
+Teammates tend to describe me as diligent, productive, and receptive to change. I think the need for change in technology should always be ongoing so the most difficult pieces of feedback to receive is feedback on code where no changes are expected. I have always been accustomed to search for changes even after MVP has been made.
 
 - 2. How have you incorporated that feedback into your personal development?
 
-I think natural code refactoring, functional recursion, explicit/implicit object referencing, or data encapsulation are all great examples to recieving feedback on changing a module that has already met standard MVP expectations. Fundamentally these concepts are all great ways to polish any finished piece into a professional build that should withstand any future updates, tests or new build/deployment.   
+I think natural code refactoring, functional recursion, explicit/implicit object referencing, or data encapsulation are all great examples to receiving feedback on changing a module that has already met standard MVP expectations. Fundamentally these concepts are all great ways to polish any finished piece into a professional build that should withstand any future updates, tests or new build/deployment.   
 
 <hr>
+<h2>About</h2>
 
+I am skilled in flow-chart creation to design popular user interfaces and user experience designs to streamline cross compatibility and accessibility. I am very interested in creating websites, applications, and games to display similar user experiences despite differences of client screen size. I have contributed to projects and worked in teams with other programmers to design projects that complete goals outlined within the rubric or user's story.   
+
+<hr>
+<h2>Experience</h2>
+<hr>
+<p align="left">
+
+- :skull: I'm currently working on <a href="https://github.com/Lambda-School-Labs/story-squad-fe">Lambda Labs Story Squad FrontEnd Dev</a>
+- :memo: I'm currently learning <a href="https://www.mongodb.com/mern-stack">MERN Stack Development</a>
+- :paperclip: I'm looking to collaborate on any projects that can make me money :money_with_wings: or help the community. 
+- :bat: I'm looking for help with <a href="https://regexr.com/">Regex Pattern manipulation</a>
+- :swan: Ask me about  <a href="https://trello.com/invite/rouletteprogramming/a02a0c8c9ac1ef64f0965fa269c3e9df" title="See my trello boards for a invite to work on live projects">any trello board development projects to build web apps, tools, or games </a>
+- :mailbox: How to reach me [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/web-dev-nicholas-lacapria//)<a href="mailto:nicholas.a.lacapria@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+&nbsp; &nbsp;
+- :zebra:  Pronouns <b>Fullstack Web Developer, Programmer, and Software Engineer</b>
+-  :strawberry: :grapes: Fun fact If two pieces of the same type of metal touch in space, they will bond and be permanently stuck together. This amazing effect is called cold welding. It happens because the atoms of the individual pieces of metal have no way of knowing that they are different pieces of metal, so the lumps join together.This wouldn't happen on Earth because there is air and water separating the pieces. Its similar to principles of metal-based construction within vacuums.
+</p>
+<h4>Organization I'm Currently At:</h4>
+
+- <b>Lambda-School-Labs</b>(https://github.com/Lambda-School-Labs) :drum:
+
+<h5>Past organizations i've been at:</h5>
+
+- <b>Pintereach1</b>(https://github.com/Pintereach1) :cyclone:
+
+- <b>PTBW-Water-My-Plants</b>(https://github.com/PTBW-Water-My-Plants) :evergreen_tree:
+
+- <b>Build-Week-secretfamilyrecipes-2020</b>(https://github.com/Build-Week-secretfamilyrecipes-2020) :avocado:
+
+- <b>Build-week-secret-family-recipes-9</b>(https://github.com/Build-week-secret-family-recipes-9) :plate_with_cutlery:
 <h6>HTML, Javascript, PHP & JSX:</h6>  
 <details>
            <summary><b>Normalized HTML5 and CSS3 styling markup with Javascript through nodejs libraries to create web apps that streamline a niched user experience.</b></summary>
@@ -140,32 +171,7 @@ I think natural code refactoring, functional recursion, explicit/implicit object
 </details>
 
 
-<hr>
-<p align="left">
 
-- :skull: I'm currently working on <a href="https://github.com/Lambda-School-Labs/story-squad-fe">Lambda Labs Story Squad FrontEnd Dev</a>
-- :memo: I'm currently learning <a href="https://www.mongodb.com/mern-stack">MERN Stack Development</a>
-- :paperclip: I'm looking to collaborate on any projects that can make me money :money_with_wings: or help the community. 
-- :bat: I'm looking for help with <a href="https://regexr.com/">Regex Pattern manipulation</a>
-- :swan: Ask me about  <a href="https://trello.com/invite/rouletteprogramming/a02a0c8c9ac1ef64f0965fa269c3e9df" title="See my trello boards for a invite to work on live projects">any trello board development projects to build web apps, tools, or games </a>
-- :mailbox: How to reach me [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/web-dev-nicholas-lacapria//)<a href="mailto:nicholas.a.lacapria@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
-&nbsp; &nbsp;
-- :zebra:  Pronouns <b>Fullstack Web Developer, Programmer, and Software Engineer</b>
--  :strawberry: :grapes: Fun fact If two pieces of the same type of metal touch in space, they will bond and be permanently stuck together. This amazing effect is called cold welding. It happens because the atoms of the individual pieces of metal have no way of knowing that they are different pieces of metal, so the lumps join together.This wouldn't happen on Earth because there is air and water separating the pieces. Its similar to principles of metal-based construction within vacuums.
-</p>
-<h4>Organization I'm Currently At:</h4>
-
-- <b>Lambda-School-Labs</b>(https://github.com/Lambda-School-Labs) :drum:
-
-<h5>Past organizations i've been at:</h5>
-
-- <b>Pintereach1</b>(https://github.com/Pintereach1) :cyclone:
-
-- <b>PTBW-Water-My-Plants</b>(https://github.com/PTBW-Water-My-Plants) :evergreen_tree:
-
-- <b>Build-Week-secretfamilyrecipes-2020</b>(https://github.com/Build-Week-secretfamilyrecipes-2020) :avocado:
-
-- <b>Build-week-secret-family-recipes-9</b>(https://github.com/Build-week-secret-family-recipes-9) :plate_with_cutlery:
 <hr>
 
 ### Tools & Languages I work with!
