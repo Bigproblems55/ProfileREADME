@@ -1,14 +1,14 @@
 
 <p align="left">
-<img  align="left"  src="https://visitor-badge.laobi.icu/badge?page_id=Bigproblems55" id="counter">
+<img  align="left"  src="https://visitor-badge.laobi.icu/badge?page_id=extrude575757" id="counter">
 </p>
 <p  align="center"  >
 <h1 align="center" >Nicholas Anthony Lacapria </h1> 
-<h3>Junior Fullstack Developer for Hire!</h3>
+<h3>Mern Stack Web Developer for Hire!</h3>
 </p>
 <p width="30%" align="right">
 
-<img width="20%" align="right" src="badge.svg" alt="lambda webdev" /> 
+<img width="20%" align="right" src="https://images.credly.com/size/240x240/images/bd26a157-c655-4383-9707-a1bd6576f153/lambda-badge-full-stack-web.png" alt="lambda webdev" /> 
 
 </p>
 <p align="left">
