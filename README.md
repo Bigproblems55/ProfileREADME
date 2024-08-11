@@ -37,9 +37,6 @@ Teammates tend to describe me as diligent, productive, and receptive to change. 
 
 I think natural code refactoring, functional recursion, explicit/implicit object referencing, or data encapsulation are all great examples to receiving feedback on changing a module that has already met standard MVP expectations. Fundamentally these concepts are all great ways to polish any finished piece into a professional build that should withstand any future updates, tests or new build/deployment.   
 
-- 3. Fun fact
-I have also worked with organizations under the name extrude575757. This account name change is a continuation for the first account which is still frozen. 
-
 <hr>
 <h2>About</h2>
 
@@ -69,26 +66,26 @@ This is where I have gained experience with PHP  and learned what regex is to cr
 - :skull_and_crossbones: I'm currently working on <a href="https://github.com/Lambda-School-Labs/story-squad-fe">Lambda Labs Story Squad FrontEnd Dev</a>
 - :anger: I'm currently learning <a href="https://www.mongodb.com/mern-stack">MERN Stack Development</a>
 - :paperclip: I'm looking to collaborate on any projects that can make me money :money_with_wings: or help the community. 
-- :bat: I'm looking for help with <a href="https://regexr.com/">Regex Pattern manipulation</a>
-- :swan: Ask me about  <a href="https://trello.com/invite/rouletteprogramming/a02a0c8c9ac1ef64f0965fa269c3e9df" title="See my trello boards for a invite to work on live projects">any trello board development projects to build web apps, tools, or games </a>
+- :sweat_drops: I'm looking for help with <a href="https://regexr.com/">Regex Pattern manipulation</a>
+- :v: Ask me about  <a href="https://trello.com/invite/rouletteprogramming/a02a0c8c9ac1ef64f0965fa269c3e9df" title="See my trello boards for a invite to work on live projects">any trello board development projects to build web apps, tools, or games </a>
 - :mailbox: How to reach me [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/web-dev-nicholas-lacapria//)<a href="mailto:nicholas.a.lacapria@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
-- :zebra:  Pronouns <b>Fullstack Web Developer, Programmer, and Software Engineer</b>
--  :strawberry: :grapes: Fun fact If two pieces of the same type of metal touch in space, they will bond and be permanently stuck together. This amazing effect is called cold welding. It happens because the atoms of the individual pieces of metal have no way of knowing that they are different pieces of metal, so the lumps join together.This wouldn't happen on Earth because there is air and water separating the pieces. Its similar to principles of metal-based construction within vacuums.
+- :point_right:  Pronouns <b>Fullstack Web Developer, Programmer, and Software Engineer</b>
+-  :mountain: Fun fact ... I have worked with most organizations under the name extrude575757. This account name change is a continuation for the first account on github still frozen. 
 </p>
-<h4>Organizations I with as the name extrude575757:</h4>
+<h4>Organizations been in as extrude575757</h4>
 
-- <b>Lambda-School-Labs</b>(https://github.com/Lambda-School-Labs) :drum:
+- <b>Lambda-School-Labs</b>(https://github.com/Lambda-School-Labs) :tent:
 
 <h5>Past organizations i've been at:</h5>
 
-- <b>Pintereach1</b>(https://github.com/Pintereach1) :cyclone:
+- <b>Pintereach1</b>(https://github.com/Pintereach1) :anchor:
 
-- <b>PTBW-Water-My-Plants</b>(https://github.com/PTBW-Water-My-Plants) :evergreen_tree:
+- <b>PTBW-Water-My-Plants</b>(https://github.com/PTBW-Water-My-Plants) :airplane:
 
-- <b>Build-Week-secretfamilyrecipes-2020</b>(https://github.com/Build-Week-secretfamilyrecipes-2020) :avocado:
+- <b>Build-Week-secretfamilyrecipes-2020</b>(https://github.com/Build-Week-secretfamilyrecipes-2020) :hourglass:
 
-- <b>Build-week-secret-family-recipes-9</b>(https://github.com/Build-week-secret-family-recipes-9) :plate_with_cutlery:
+- <b>Build-week-secret-family-recipes-9</b>(https://github.com/Build-week-secret-family-recipes-9) :moon:
 <h6>HTML, Javascript, PHP & JSX:</h6>  
 <details>
            <summary><b>Normalized HTML5 and CSS3 styling markup with Javascript through nodejs libraries to create web apps that streamline a niched user experience.</b></summary>
@@ -201,7 +198,6 @@ This is where I have gained experience with PHP  and learned what regex is to cr
 <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
 <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
 <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
-<a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
@@ -211,9 +207,10 @@ This is where I have gained experience with PHP  and learned what regex is to cr
   * UML flow-chart creation and WYSIWYG editors.
   * Popular UX/UI Designing, Accessability, & Cross Compatibility.
   * Testing, Logging, Commenting, & Stack Debugging.
-  * Front/Back-end coding, SASS/LESS/CSS styling, along with 3D Libraries.
+  * Front/Back-end coding, SASS/LESS/CSS styling and powerful Libraries.
   * Git, gist, & mercurial reversions.
-  * Gimp, Inkscape, Blender, & photo-shop imaging, texturing and design pattern principles.
+  * Gimp, Inkscape, Blender, & photo-shop imaging, texturing 
+  * Design pattern principles
 ### 📫 Get In Touch
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/web-dev-nicholas-lacapria//)<a href="mailto:nicholas.a.lacapria@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
@@ -222,10 +219,6 @@ This is where I have gained experience with PHP  and learned what regex is to cr
 
 
 <br>
-
-<img width="30%" align="left" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" alt="Nick's Stats">
-
-<img width="40%" align="right" src="https://media-exp3.licdn.com/dms/image/C4E03AQHQQq7QU5capw/profile-displayphoto-shrink_200_200/0/1623495153672?e=1628726400&v=beta&t=a_ZZxMAA0Uk_rfy1EJs9mHzAEMr26KNhhffFyUKj_as" alt="Nicholas Anthony Lacapria">
 
 <p align="center">
 <a align="center" href="https://github.com/extrude575757/github-readme-stats" title="Go to Source"><img width="50%" height="100%" src="https://github-readme-stats.vercel.app/api?username=extrude575757&show_icons=true&theme=gotham"></a>
