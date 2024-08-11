@@ -8,7 +8,7 @@
 </p>
 <p width="30%" align="right">
 
-<img width="20%" align="right" src="badge.svg" alt="lambda webdev" /> 
+<img width="20%" align="right" src="pictures/badge.svg" alt="lambda webdev" /> 
 
 </p>
 <p align="left">
@@ -217,13 +217,9 @@ This is where I have gained experience with PHP  and learned what regex is to cr
 
 <hr>
 
-
 <br>
 
-
 <img align="center" src="pictures/nl.jpg">
-
-
 
 <hr>
 
