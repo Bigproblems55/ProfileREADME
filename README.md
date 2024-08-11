@@ -221,7 +221,7 @@ This is where I have gained experience with PHP  and learned what regex is to cr
 <br>
 
 
-<img src="pictures/nl.jpg>
+<img align="center" src="pictures/nl.jpg">
 
 
 
