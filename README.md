@@ -68,7 +68,7 @@ This is where I have gained experience with PHP  and learned what regex is to cr
 - :paperclip: I'm looking to collaborate on any projects that can make me money :money_with_wings: or help the community. 
 - :sweat_drops: I'm looking for help with <a href="https://regexr.com/">Regex Pattern manipulation</a>
 - :v: Ask me about  <a href="https://trello.com/invite/rouletteprogramming/a02a0c8c9ac1ef64f0965fa269c3e9df" title="See my trello boards for a invite to work on live projects">any trello board development projects to build web apps, tools, or games </a>
-- :mailbox: How to reach me [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/web-dev-nicholas-lacapria/)<a href="mailto:nicholas.a.lacapria@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+- :envelope: How to reach me [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/web-dev-nicholas-lacapria/)<a href="mailto:nicholas.a.lacapria@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
 - :point_right:  Pronouns <b>Fullstack Web Developer, Programmer, and Software Engineer</b>
 -  :mountain: Fun fact ... I have worked with most organizations under the name extrude575757. This account name change is a continuation for the first account on github still frozen. 
@@ -220,14 +220,14 @@ This is where I have gained experience with PHP  and learned what regex is to cr
 
 <br>
 
-<p align="center">
+
 <img src="pictures/nl.jpg>
-</p>
+
 
 
 <hr>
 
-<h2 align="center">Repositories</h2>
+<h2>Repositories</h2>
 
 <p width="100%" align="center">
   <a align="left" href="https://github.com/extrude575757/react-shopping-cart" title="React Shopping Cart"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=extrude575757&repo=react-shopping-cart&theme=gotham"></a>
