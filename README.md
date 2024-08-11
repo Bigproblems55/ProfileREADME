@@ -1,7 +1,7 @@
 
 <p align="left">
-<img  align="left"  src="https://visitor-badge.laobi.icu/badge?page_id=Bigproblems55" id="counter">
-</p>
+<img  align="left"  src="https://visitor-badge.laobi.icu/badge?page_id=Bigproblems55.visitor-badge" id="counter">
+</p>                     
 <p  align="center"  >
 <h1 align="center" >Nicholas Anthony Lacapria </h1> 
 <h3>Junior Fullstack Developer for Hire!</h3>
@@ -19,19 +19,19 @@
 
 - 1. What's an example of an issue I have had in working with another team member? How have I addressed it?
 
-I have not experienced much confrontation because I have always been open to new ideas or thoughts on projects different than mine, but one time I did received feedback from a team member who wanted different styling done within the project than I had already. They said they had originally used a WYSIWYG editor to create the HTML and CSS for the project to create a typical look and styling through the app, so my styling I had already done did not match what they had already intended for the project. I did not want their stylings to go to waste so I quickly copied the CSS over into the project and remade all the elements to fit what they had intended in the first place. After seeing what they wanted I saw my development module fit much better with all the other components and pages already within the project. This was important since what I originally had made me standout from everyone because the styling did not look neutral with everyone elses modules.     
+I have not experienced much confrontation because I have always been open to new ideas or thoughts on projects different than mine, but one time I did received feedback from a team member who wanted different styling done within the project than I had already. They said they had originally used a WYSIWYG editor to create the HTML and CSS for the project to create a typical look and styling through the app, so my styling I had already done did not match what they had already intended for the project. I did not want their stylings to go to waste so I quickly copied the CSS over into the project and remade all the elements to fit what they had intended in the first place. After seeing what they wanted I saw my development module fit much better with all the other components and pages already within the project. This was important because my original made me stickout from everyone so the styling did not look neutral with everyone elses modules they had made in the Scribble Stadium Organization.     
 
 
 - 2. What are some benefits and challenges to working with the different personalities and work styles on my team? 
 
-I think it is great to see views or opinions different than mine when it comes to working on a project. I am new to the professional MERN stack dev. field so I think learning from others who have had more experience than me is important. I am interested in collaborating with everyone else who have different personalities or cultural views than I have. I believe I could benefit by seeing the differences of coding styles I have to them so I could acquire a productive, programmatic way to produce and test the most efficient software while developing. When I look at technology and why it is technology has evolved into what it is now from the beginning, I think the most important aspect to molding greater software products is the ability to learn from other examples or styles of code that make development most important.        
+I think it is great to see views or opinions different than mine when it comes to working on a project. I am new to the professional fullstack development community; so learning from others who have had more experience than me is important. I am interested in collaborating with others for the future. I want to benefit from differences of coding styles to acquire a productive, programmatic, stable system to produce and test the most efficient software available. Technlogies greatest aspect to evolution is to mold greater software products as an ability to learn, enhance, or replicate other coding examples which hold an efficent development environment.        
 
 <h3>Receiving Feedback </h3>
 
 - 1. How do your teammates tend to describe you?
 What's the most difficult piece of feedback you've ever received?
 
-Teammates tend to describe me as diligent, productive, and receptive to change. I think the need for change in technology should always be ongoing so the most difficult pieces of feedback to receive is feedback on code where no changes are expected. I have always been accustomed to search for changes even after MVP has been made.
+Teammates tend to describe me as diligent, productive, and receptive to change. I think the need for change in technology should always be ongoing so the most difficult pieces of feedback to receive is feedback on code where no changes are expected. I have always been accustomed to search for changes even after MVP has been made. This always furthered my understanding to the material while conducting my own playground of the MVP assignment.
 
 - 2. How have you incorporated that feedback into your personal development?
 
