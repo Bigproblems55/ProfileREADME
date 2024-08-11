@@ -37,6 +37,9 @@ Teammates tend to describe me as diligent, productive, and receptive to change. 
 
 I think natural code refactoring, functional recursion, explicit/implicit object referencing, or data encapsulation are all great examples to receiving feedback on changing a module that has already met standard MVP expectations. Fundamentally these concepts are all great ways to polish any finished piece into a professional build that should withstand any future updates, tests or new build/deployment.   
 
+- 3. Fun fact
+I have also worked with organizations under the name extrude575757. This account name change is a continuation for the first account which is still frozen. 
+
 <hr>
 <h2>About</h2>
 
@@ -63,8 +66,8 @@ This is where I have gained experience with PHP  and learned what regex is to cr
 <hr>
 <p align="left">
 
-- :skull: I'm currently working on <a href="https://github.com/Lambda-School-Labs/story-squad-fe">Lambda Labs Story Squad FrontEnd Dev</a>
-- :memo: I'm currently learning <a href="https://www.mongodb.com/mern-stack">MERN Stack Development</a>
+- :skull_and_crossbones: I'm currently working on <a href="https://github.com/Lambda-School-Labs/story-squad-fe">Lambda Labs Story Squad FrontEnd Dev</a>
+- :anger: I'm currently learning <a href="https://www.mongodb.com/mern-stack">MERN Stack Development</a>
 - :paperclip: I'm looking to collaborate on any projects that can make me money :money_with_wings: or help the community. 
 - :bat: I'm looking for help with <a href="https://regexr.com/">Regex Pattern manipulation</a>
 - :swan: Ask me about  <a href="https://trello.com/invite/rouletteprogramming/a02a0c8c9ac1ef64f0965fa269c3e9df" title="See my trello boards for a invite to work on live projects">any trello board development projects to build web apps, tools, or games </a>
@@ -73,7 +76,7 @@ This is where I have gained experience with PHP  and learned what regex is to cr
 - :zebra:  Pronouns <b>Fullstack Web Developer, Programmer, and Software Engineer</b>
 -  :strawberry: :grapes: Fun fact If two pieces of the same type of metal touch in space, they will bond and be permanently stuck together. This amazing effect is called cold welding. It happens because the atoms of the individual pieces of metal have no way of knowing that they are different pieces of metal, so the lumps join together.This wouldn't happen on Earth because there is air and water separating the pieces. Its similar to principles of metal-based construction within vacuums.
 </p>
-<h4>Organization I'm Currently At:</h4>
+<h4>Organizations I with as the name extrude575757:</h4>
 
 - <b>Lambda-School-Labs</b>(https://github.com/Lambda-School-Labs) :drum:
 
@@ -294,5 +297,5 @@ This is where I have gained experience with PHP  and learned what regex is to cr
 <p align="center">
 <br>
 <br>
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=extrude575757.ProfileREADME" id="counter">
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Bigproblems55.vistor-badge" id="counter">
 </p>
