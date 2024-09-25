@@ -63,21 +63,36 @@ This is where I have gained experience with PHP  and learned what regex is to cr
 <hr>
 <p align="left">
 
-- :skull_and_crossbones: I'm currently working on <a href="https://github.com/Lambda-School-Labs/story-squad-fe">Lambda Labs Story Squad FrontEnd Dev</a>
-- :anger: I'm currently learning <a href="https://www.mongodb.com/mern-stack">MERN Stack Development</a>
-- :paperclip: I'm looking to collaborate on any projects that can make me money :money_with_wings: or help the community. 
+- :skull_and_crossbones: I'm currently working on react2024 video at my newest organization <a href="https://github.com/Knewmule/react2024">knewmule </a>
+- :paperclip: I'm looking to collaborate on any projects that will pay :money_with_wings: or help the community. 
 - :sweat_drops: I'm looking for help with <a href="https://regexr.com/">Regex Pattern manipulation</a>
-- :v: Ask me about  <a href="https://trello.com/invite/rouletteprogramming/a02a0c8c9ac1ef64f0965fa269c3e9df" title="See my trello boards for a invite to work on live projects">any trello board development projects to build web apps, tools, or games </a>
-- :envelope: How to reach me [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/web-dev-nicholas-lacapria/)<a href="mailto:nicholas.a.lacapria@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+- :v: Ask me about  <a href="https://trello.com/invite/rouletteprogramming/a02a0c8c9ac1ef64f0965fa269c3e9df" title="See my trello boards for a invite to work on live projects">any trello board development projects to build web apps, tools, or games for pay or experience</a>
+- :envelope: How to reach me [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/web-dev-nicholas-lacapria/)
+<a href="mailto:nicholas.a.lacapria@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
-- :point_right:  Pronouns <b>Fullstack Web Developer, Programmer, and Software Engineer</b>
+- :point_right:  Pronouns <b>Fullstack Developer/Programmer, he/him</b>
 -  :mountain: Fun fact ... I have worked with most organizations under the name extrude575757. This account name change is a continuation for the first account on github still frozen. 
 </p>
-<h4>Organizations been in as extrude575757</h4>
+<h4>Newest Organization & projects as Bigproblems55 </h4>
+- <b>Knewmule Organization</b> (https://github.com/Knewmule) :mouse:
 
-- <b>Lambda-School-Labs</b>(https://github.com/Lambda-School-Labs) :tent:
+- <b>React 2024 Udemy Video</b>(https://github.com/Knewmule/react2024) :chipmunk:
 
-<h5>Past organizations i've been at:</h5>
+- <b>Python Django Project</b>(https://github.com/Knewmule/django2.2-python-3.6) :shamrock:
+
+- <b>Spinner Game in React</b>(https://github.com/Knewmule/spinnerGame) :clock1:
+
+- <b>Roulette Game in Javascript & React</b>(https://github.com/Knewmule/roulette) :clock2:
+
+- <b>React & Javascript assignments while at Lambda as extrude575757</b>(https://github.com/Reactbottle) :snowflake:
+
+- <b>React & Nodejs assignments while at Lambda as extrude575757</b>(https://github.com/Stemcatch) :open_umbrella:
+
+
+<h5>Past organizations i've been at as extrude575757:</h5>
+- <b>Lambda-School-Labs</b>(https://github.com/Lambda-School-Labs) :zap:
+
+- <b> Story Squad FrontEnd Dev</b>(https://github.com/Lambda-School-Labs/story-squad-fe) :comet:
 
 - <b>Pintereach1</b>(https://github.com/Pintereach1) :anchor:
 
@@ -134,14 +149,14 @@ This is where I have gained experience with PHP  and learned what regex is to cr
 
 <h6>Projects:</h6> 
 <details>
-           <summary><b><a href="https://pedantic-lichterman-c811ec.netlify.app">Water my Plants</a></b><a title="personal repo deployed from"href="https://github.com/extrude575757/waterplantsApp"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a title="build week on github" href="https://github.com/PTBW-Water-My-Plants/front-end/tree/Nicholas-Lacapria"><img src="https://img.icons8.com/fluent/48/000000/repository.png"/></a></summary>
+           <summary><b><a href="https://skins-charts-darkmode.onrender.com/">Darkmode Persistant Storage</a></b><a title="personal repo deployed from"href="https://github.com/Bigproblems55/dark-mode"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a title="Persistant Storage Assignment" href="https://github.com/Bigproblems55/dark-mode"><img src="https://img.icons8.com/fluent/48/000000/repository.png"/></a></summary>
            <p>
 
-- [x] Made from <b>Oct. 11, 2020 - Oct. 22, 2020</b> <a title="deployed on netlify" href="https://pedantic-lichterman-c811ec.netlify.app"><img src="https://img.icons8.com/fluent/50/000000/web-design.png"/></a>
+- [x] Made <b>Nov. 4, 2020</b> <a title="deployed on " href="https://skins-charts-darkmode.onrender.com"><img src="https://img.icons8.com/fluent/50/000000/web-design.png"/></a>
 
-- [x] This project was done after learning the first Section of react before I learned what backend code looked like. It was a login form and used an automatic form validation library with javascript to test the user’s input. It has a nice earthly background and is the start to a great login/registration page.  
+- [x] In this project I compose stateful logic to persist in local storage the skin color of the user's choice. The object is to use this in a hook so the app is more efficient. Since it uploads charts of various crypto currency the more scrolling you do the more performance you lose, but once the hook is installed you should see a performance increase while scrolling down. 
 
-- [x] Made with <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a> <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a><a href="https://github.com/PTBW-Water-My-Plants/front-end/tree/Nicholas-Lacapria"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a><a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a><a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a><a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+- [x] Made with <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a> <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a><a href="https://github.com/Bigproblems55/dark-mode"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a><a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a><a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a><a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
            </p>
 </details>
 <br>
@@ -161,27 +176,27 @@ This is where I have gained experience with PHP  and learned what regex is to cr
 </details>
 <br>
 <details>
-           <summary><b><a title="Version 1" href="https://cranky-morse-e5b98a.netlify.app/">Portfolio Site V1 </a><a title="Version 2" href="https://wonderful-hawking-80801b.netlify.app/">Portfolio Site V2 </a></b> <a href="https://github.com/extrude575757/Responsive-Design/tree/Nicholas-Lacapria"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a title="Version 1 Portfolio on netlify" href="https://cranky-morse-e5b98a.netlify.app/"><img src="https://img.icons8.com/fluent/50/000000/web-design.png"/></a>  <a title="Version Two Portfolio" href="https://wonderful-hawking-80801b.netlify.app/"><img src="https://img.icons8.com/nolan/64/web-design.png"/></a></summary>
+           <summary><b><a title="Production version of sites" href="https://responsive-design-1-hyg7.onrender.com/">Portfolio Site </a><a title="Portfolio" href="https://responsive-design-1-hyg7.onrender.com/">Portfolio Site </a></b> <a href="https://github.com/Bigproblems55/Responsive-Design/"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a title="Portfolio" href="https://responsive-design-1-hyg7.onrender.com/"><img src="https://img.icons8.com/fluent/50/000000/web-design.png"/></a>  <a title="Portfolio" href="https://responsive-design-1-hyg7.onrender.com/"><img src="https://img.icons8.com/nolan/64/web-design.png"/></a></summary>
            <p>
 
-- [x] Made from <b>July 16, 2020 - July. 22, 2020 </b> <a title="Version 1 Portfolio on netlify" href="https://cranky-morse-e5b98a.netlify.app/"><img src="https://img.icons8.com/fluent/50/000000/web-design.png"/></a>  <a title="Version Two Portfolio" href="https://wonderful-hawking-80801b.netlify.app/"><img src="https://img.icons8.com/nolan/64/web-design.png"/></a>
+- [x] Made from <b>July 16, 2020 - Presently Maintained </b> <a title="Portfolio" href="https://responsive-design-1-hyg7.onrender.com/"><img src="https://img.icons8.com/fluent/50/000000/web-design.png"/></a>  <a title="Portfolio of Sites" href="https://responsive-design-1-hyg7.onrender.com/"><img src="https://img.icons8.com/nolan/64/web-design.png"/></a>
 
-- [x] The main portfolio page where I will be showcasing all projects. Right now only the ones I began with before React’s front-end design section are included. There are more to come as I start to deploy them from github, they will all be added here. The first link is the first version and the second link is the 2nd version which has more projects on it. Because a portfolio is so important I have two different domains its being hosted on. In the event that one link does not working properly. The other link should be dependable enough.  
+- [x] The main portfolio page where I will be showcasing all projects. Right now projects I did in 2020 are being upgraded to react v6 through npx react-create-app. The app does run on a backend but all project information is mapped threw a stored json object. In future releases all pictures and json objects should be stored in a live database.  
 
-- [x] Made with <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a><a href="https://github.com/extrude575757/Responsive-Design/tree/Nicholas-Lacapria"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a><a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a><a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a><a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+- [x] Made with <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a><a href="https://github.com/Bigproblems55/Responsive-Design/"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a><a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a><a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a><a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 
 </p>
 </details>
 <br>
 <details>
-           <summary><b><a href="https://focused-hugle-a34bbe.netlify.app">Yosemite Parks Page</a></b> <a href="https://github.com/extrude575757/web-module-project-intro-css/tree/Nicholas-Lacapria"><img src="https://img.icons8.com/color/48/000000/github.png"/></a> <a title="Intro to CSS Module" href="https://focused-hugle-a34bbe.netlify.app"><img src="https://img.icons8.com/fluent/50/000000/web-design.png"/></a> </summary>
+           <summary><b><a href="https://nasa-photo-of-the-day.onrender.com">NASA photo of the day</a></b> <a href="https://www.github.com/Bigproblems55/nasa-photo-of-the-day"><img src="https://img.icons8.com/color/48/000000/github.png"/></a> <a title="DOM manipulation with NASA Api" href="https://nasa-photo-of-the-day.onrender.com"><img src="https://img.icons8.com/fluent/50/000000/web-design.png"/></a> </summary>
            <p>
            
-- [x] Made from <b>July 9, 2020 - July. 14, 2020 </b> <a title="Intro to CSS Project" href="https://focused-hugle-a34bbe.netlify.app"><img src="https://img.icons8.com/fluent/50/000000/web-design.png"/></a> 
+- [x] Made from <b>September 22, 2020 - September. 26, 2020 </b> <a title="NASA DOM" href="https://nasa-photo-of-the-day.onrender.com"><img src="https://img.icons8.com/fluent/50/000000/web-design.png"/></a> 
 
-- [x] This was at the end of the first section where we learned what CSS is and how to make elements responsive with flex display settings. After passing this section and getting comfortable with positioning elements I moved onto Javascript where I would study how to make these nicely styled elements have functionality.
+- [x] Here I learned how to read the dom with a NASA photo of the day api. The api allows you a NASA photo, video, and column write up each day. With enough development it will be fully functional and search any day a user puts into the search box.
 
-- [x] Made with <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a><a href="https://github.com/extrude575757/web-module-project-intro-css/tree/Nicholas-Lacapria"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a><a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a><a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a><a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+- [x] Made with <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a><a href="https://www.github.com/Bigproblems55/nasa-photo-of-the-day"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a><a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a><a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a><a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 
 </p>
 </details>
@@ -207,19 +222,23 @@ This is where I have gained experience with PHP  and learned what regex is to cr
   * UML flow-chart creation and WYSIWYG editors.
   * Popular UX/UI Designing, Accessability, & Cross Compatibility.
   * Testing, Logging, Commenting, & Stack Debugging.
-  * Front/Back-end coding, SASS/LESS/CSS styling and powerful Libraries.
+  * Front-end coding, with Flexbox/LESS/CSS3 styling & Reactjs.
+  * Back-end coding with sqlite or postgre sql.
+  * Back-end env sessions with Knex state management.
   * Git, gist, & mercurial reversions.
+  * Python standard library & algorithims.
   * Gimp, Inkscape, Blender, & photo-shop imaging, texturing 
   * Design pattern principles
 ### :envelope: Get In Touch
-[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/web-dev-nicholas-lacapria//)<a href="mailto:nicholas.a.lacapria@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/web-dev-nicholas-lacapria/)
+<a href="mailto:nicholas.a.lacapria@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
 
 <hr>
 
 <br>
 
-<img align="center" src="pictures/nl.jpg">
+<img align="center" width="400px" hieght="400px" src="pictures/nl.jpg">
 
 <hr>
 
